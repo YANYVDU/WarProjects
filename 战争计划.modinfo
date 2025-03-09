@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mod id="d13ba3105cefeac355109740153104f5" version="1">
+    <Properties>
+        <Name>战争计划(v1)</Name>
+        <Stability>Alpha</Stability>
+        <Teaser>[COLOR_YELLOW]新增大量需要争夺的军事计划，它们不会解锁新单位但是会强化某个类型的所有单位[/COLOR]</Teaser>
+        <Description>新增大量需要争夺的军事计划，它们不会解锁新单位但是会强化某个类型的所有单位</Description>
+        <Authors>杜炎宇</Authors>
+        <HideSetupGame>0</HideSetupGame>
+        <AffectsSavedGames>1</AffectsSavedGames>
+        <MinCompatibleSaveVersion>0</MinCompatibleSaveVersion>
+        <SupportsSinglePlayer>1</SupportsSinglePlayer>
+        <SupportsMultiplayer>1</SupportsMultiplayer>
+        <SupportsHotSeat>1</SupportsHotSeat>
+        <SupportsMac>1</SupportsMac>
+        <ReloadAudioSystem>0</ReloadAudioSystem>
+        <ReloadLandmarkSystem>0</ReloadLandmarkSystem>
+        <ReloadStrategicViewSystem>0</ReloadStrategicViewSystem>
+        <ReloadUnitSystem>0</ReloadUnitSystem>
+    </Properties>
+
+    <Dependencies>
+        <Mod id="a2969a0a-e4da-41cc-9e0b-19b29aa971d8" minversion="42" maxversion="999" title="CIV5MPDLL" />
+        <Mod id="f9b9c8aa-b6d1-4188-9239-c1de2207ab7c" minversion="10" maxversion="999" title="Super Power - Remaking of World Order" />
+    </Dependencies>
+    <References>
+        <Mod id="f9b9c8aa-b6d1-4188-9239-c1de2207ab7c" minversion="10" maxversion="999" title="Super Power - Remaking of World Order" />
+        <Mod id="41450919-c52c-406f-8752-5ea34be32b2d" minversion="0" maxversion="999" title="世界强权" />
+    </References>
+    <Blocks />
+    <Files>
+        <File md5="6334090b4a56b959ee360c98cb52e344" import="0">XML/WAR_PROJECTS.xml</File>
+        <File md5="6334090b4a34444122360c98cb523244" import="0">XML/TEXT.xml</File>
+        <File md5="633409023334223443160c98cb52e344" import="0">SQL/WAR_PROJECTS.sql</File>
+    </Files>
+
+    <Actions>
+        <OnModActivated>
+            <UpdateDatabase>XML/WAR_PROJECTS.xml</UpdateDatabase>
+            <UpdateDatabase>XML/TEXT.xml</UpdateDatabase>
+            <UpdateDatabase>SQL/WAR_PROJECTS.sql</UpdateDatabase>
+        </OnModActivated>
+    </Actions>
+    
+</Mod>
