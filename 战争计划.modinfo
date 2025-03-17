@@ -1,10 +1,10 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Mod id="d13ba3105cefeac355109740153104f5" version="1">
     <Properties>
-        <Name>战争计划(v1)</Name>
+        <Name>战争计划(v1.2)</Name>
         <Stability>Alpha</Stability>
-        <Teaser>[COLOR_YELLOW]新增大量需要争夺的军事计划，它们不会解锁新单位但是会强化某个类型的所有单位[/COLOR]</Teaser>
-        <Description>新增大量需要争夺的军事计划，它们不会解锁新单位但是会强化某个类型的所有单位</Description>
+        <Teaser>(1.2)[COLOR_YELLOW]新增大量需要争夺的军事计划，它们不会解锁新单位但是会强化某个类型的所有单位[/COLOR]</Teaser>
+        <Description>(1.2)新增大量需要争夺的军事计划，它们不会解锁新单位但是会强化某个类型的所有单位</Description>
         <Authors>杜炎宇</Authors>
         <HideSetupGame>0</HideSetupGame>
         <AffectsSavedGames>1</AffectsSavedGames>
@@ -20,7 +20,7 @@
     </Properties>
 
     <Dependencies>
-        <Mod id="a2969a0a-e4da-41cc-9e0b-19b29aa971d8" minversion="42" maxversion="999" title="CIV5MPDLL" />
+        <Mod id="a2969a0a-e4da-41cc-9e0b-19b29aa971d8" minversion="43" maxversion="999" title="CIV5MPDLL" />
         <Mod id="f9b9c8aa-b6d1-4188-9239-c1de2207ab7c" minversion="10" maxversion="999" title="Super Power - Remaking of World Order" />
     </Dependencies>
     <References>
@@ -29,9 +29,30 @@
     </References>
     <Blocks />
     <Files>
+        <File md5="523645847a56266778880c98cb52e344" import="1">DDS/WPT_ICON_FONT.ggxml</File>
+        <File md5="523645847a56223311990000cb52e344" import="1">DDS/WPT_ICON_2_FONT.ggxml</File>
+        <File md5="523645847a56b959ee360c98cb52e344" import="1">DDS/WPT_ICON_256.dds</File>
+        <File md5="523645847a56b959ee360c98cb52e345" import="1">DDS/WPT_ICON_128.dds</File>
+        <File md5="523645847a56b959ee360c98cb52e346" import="1">DDS/WPT_ICON_80.dds</File>
+        <File md5="523645847a56b959ee360c98cb52e347" import="1">DDS/WPT_ICON_64.dds</File>
+        <File md5="523645847a56b959ee360c98cb52e348" import="1">DDS/WPT_ICON_48.dds</File>
+        <File md5="523645847a56b959ee360c98cb52e349" import="1">DDS/WPT_ICON_45.dds</File>
+        <File md5="523645847a56b959ee360c98cb52e350" import="1">DDS/WPT_ICON_32.dds</File>
+        <File md5="523645847a56b959ee360c98cb52e351" import="1">DDS/WPT_ICON_24.dds</File>
+        <File md5="523645847a56b959ee360c98cb52e352" import="1">DDS/WPT_ICON_22.dds</File>
+        <File md5="623645847a56b959ee360c98cb52e344" import="1">DDS/WPT_ICON_2_256.dds</File>
+        <File md5="623645847a56b959ee360c98cb52e345" import="1">DDS/WPT_ICON_2_128.dds</File>
+        <File md5="623645847a56b959ee360c98cb52e346" import="1">DDS/WPT_ICON_2_80.dds</File>
+        <File md5="623645847a56b959ee360c98cb52e347" import="1">DDS/WPT_ICON_2_64.dds</File>
+        <File md5="623645847a56b959ee360c98cb52e348" import="1">DDS/WPT_ICON_2_48.dds</File>
+        <File md5="623645847a56b959ee360c98cb52e349" import="1">DDS/WPT_ICON_2_45.dds</File>
+        <File md5="623645847a56b959ee360c98cb52e350" import="1">DDS/WPT_ICON_2_32.dds</File>
+        <File md5="623645847a56b959ee360c98cb52e351" import="1">DDS/WPT_ICON_2_24.dds</File>
+        <File md5="623645847a56b959ee360c98cb52e352" import="1">DDS/WPT_ICON_2_22.dds</File>
         <File md5="6334090b4a56b959ee360c98cb52e344" import="0">XML/WAR_PROJECTS.xml</File>
         <File md5="6334090b4a34444122360c98cb523244" import="0">XML/TEXT.xml</File>
         <File md5="633409023334223443160c98cb52e344" import="0">SQL/WAR_PROJECTS.sql</File>
+        <File md5="6334090233342234431601122b52e344" import="0">SQL/WAR_PROJECTS_ICON.sql</File>
     </Files>
 
     <Actions>
@@ -39,6 +60,7 @@
             <UpdateDatabase>XML/WAR_PROJECTS.xml</UpdateDatabase>
             <UpdateDatabase>XML/TEXT.xml</UpdateDatabase>
             <UpdateDatabase>SQL/WAR_PROJECTS.sql</UpdateDatabase>
+            <UpdateDatabase>SQL/WAR_PROJECTS_ICON.sql</UpdateDatabase>
         </OnModActivated>
     </Actions>
     

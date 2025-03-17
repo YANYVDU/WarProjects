@@ -8,7 +8,7 @@
         <Row Tag="TXT_KEY_PROJECT_WAR_PT1_HELP">
 			<Text>只有[COLOR_POSITIVE_TEXT]首个[ENDCOLOR]完成此军事项目的文明可以获得强力的步兵晋升线：
                 [NEWLINE][ICON_BULLET]所有重步系和长枪系获得晋升:[COLOR:138:138:138:255]金属甲胄[ENDCOLOR]，+20[ICON_HP_SP]血量上限，战斗中获取经验速率+30%；
-                [NEWLINE][ICON_BULLET]重步兵解锁一个后续晋升:[COLOR:138:138:138:255]制式冶炼[ENDCOLOR]，单位维护费[ICON_GOLD]+2，受到伤害固定-3，进攻城市和对抗远程攻击+50%[ICON_STRENGTH]战斗力。
+                [NEWLINE][ICON_BULLET]重步兵解锁一个后续晋升:[COLOR:138:138:138:255]制式冶炼[ENDCOLOR]，[COLOR_NEGATIVE_TEXT]单位维护费[ENDCOLOR][ICON_GOLD]+2，受到伤害固定-3，进攻城市和对抗远程攻击+50%[ICON_STRENGTH]战斗力。
             </Text>
 		</Row>
 		<Row Tag="TXT_KEY_PROJECT_WAR_PT1_PEDIA">
@@ -24,7 +24,7 @@
 			<Text>[COLOR:138:138:138:255]制式冶炼[ENDCOLOR]</Text>
 		</Row>
         <Row Tag="TXT_KEY_Promotion_WAR_PT1_1_HELP">
-			<Text>单位维护费[ICON_GOLD]+2，受到伤害固定-3，进攻城市和对抗远程攻击+50%[ICON_STRENGTH]战斗力</Text>
+			<Text>[COLOR_NEGATIVE_TEXT]单位维护费[ENDCOLOR][ICON_GOLD]+2，受到伤害固定-3，进攻城市和对抗远程攻击+50%[ICON_STRENGTH]战斗力</Text>
 		</Row>
         <!-- 2 -->
         <Row Tag="TXT_KEY_PROJECT_WAR_PT2">
@@ -33,7 +33,7 @@
         <Row Tag="TXT_KEY_PROJECT_WAR_PT2_HELP">
 			<Text>只有[COLOR_POSITIVE_TEXT]首个[ENDCOLOR]完成此军事项目的文明可以获得强力的远程晋升线：
                 [NEWLINE][ICON_BULLET]所有陆军远程单位获得晋升:[COLOR:138:138:138:255]箭只改良[ENDCOLOR]，+1[ICON_MOVES]移动力，进攻时+20%[ICON_STRENGTH]战斗力
-                [NEWLINE][ICON_BULLET]弓兵系解锁一个后续晋升:[COLOR:138:138:138:255]校场训练[ENDCOLOR]，单位维护费[ICON_GOLD]+2，经验获取加速30%，+1[ICON_RANGE_STRENGTH]射程，攻击残血单位和轻重骑兵+50%[ICON_STRENGTH]战斗力。
+                [NEWLINE][ICON_BULLET]弓兵系解锁一个后续晋升:[COLOR:138:138:138:255]校场训练[ENDCOLOR]，[COLOR_NEGATIVE_TEXT]单位维护费[ENDCOLOR][ICON_GOLD]+2，经验获取加速30%，+1[ICON_RANGE_STRENGTH]射程，攻击残血单位和轻重骑兵+50%[ICON_STRENGTH]战斗力。
             </Text>
 		</Row>
 		<Row Tag="TXT_KEY_PROJECT_WAR_PT2_PEDIA">
@@ -49,7 +49,7 @@
 			<Text>[COLOR:138:138:138:255]校场训练[ENDCOLOR]</Text>
 		</Row>
         <Row Tag="TXT_KEY_Promotion_WAR_PT2_1_HELP">
-			<Text>单位维护费[ICON_GOLD]+2，经验获取加速30%，+1[ICON_RANGE_STRENGTH]射程，攻击残血单位和轻重骑兵+50%[ICON_STRENGTH]战斗力</Text>
+			<Text>[COLOR_NEGATIVE_TEXT]单位维护费[ENDCOLOR][ICON_GOLD]+2，经验获取加速30%，+1[ICON_RANGE_STRENGTH]射程，攻击残血单位和轻重骑兵+50%[ICON_STRENGTH]战斗力</Text>
 		</Row>
         <!-- 3 -->
          <Row Tag="TXT_KEY_PROJECT_WAR_PT3">
@@ -58,7 +58,7 @@
         <Row Tag="TXT_KEY_PROJECT_WAR_PT3_HELP">
 			<Text>只有[COLOR_POSITIVE_TEXT]首个[ENDCOLOR]完成此军事项目的文明可以获得强力的民兵晋升线：
                 [NEWLINE][ICON_BULLET]所有民兵获得晋升:[COLOR:138:138:138:255]训练有素[ENDCOLOR]，消除民兵的境外作战惩罚，移动无视地形消耗
-                [NEWLINE][ICON_BULLET]民兵系解锁一个后续晋升:[COLOR:138:138:138:255]医疗训练[ENDCOLOR]，单位维护费[ICON_GOLD]+2，+1[ICON_MOVES]移动力，一环内同领域友军允许每回合回复血量
+                [NEWLINE][ICON_BULLET]民兵系解锁一个后续晋升:[COLOR:138:138:138:255]医疗训练[ENDCOLOR]，[COLOR_NEGATIVE_TEXT]单位维护费[ENDCOLOR][ICON_GOLD]+2，+1[ICON_MOVES]移动力，一环内同领域友军允许每回合回复血量
             </Text>
 		</Row>
 		<Row Tag="TXT_KEY_PROJECT_WAR_PT3_PEDIA">
@@ -74,7 +74,7 @@
 			<Text>[COLOR:138:138:138:255]医疗训练[ENDCOLOR]</Text>
 		</Row>
         <Row Tag="TXT_KEY_Promotion_WAR_PT3_1_HELP">
-			<Text>单位维护费[ICON_GOLD]+2，+1[ICON_MOVES]移动力，一环内同领域友军允许每回合回复血量</Text>
+			<Text>[COLOR_NEGATIVE_TEXT]单位维护费[ENDCOLOR][ICON_GOLD]+2，+1[ICON_MOVES]移动力，一环内同领域友军允许每回合回复血量</Text>
         </Row>
         <Row Tag="TXT_KEY_Promotion_WAR_PT3_2">
 			<Text>[COLOR:0:204:0:255]接受救助[ENDCOLOR]</Text>
@@ -88,8 +88,8 @@
 		</Row>
         <Row Tag="TXT_KEY_PROJECT_WAR_PT4_HELP">
 			<Text>只有[COLOR_POSITIVE_TEXT]首个[ENDCOLOR]完成此军事项目的文明可以获得强力的骑兵晋升线：
-                [NEWLINE][ICON_BULLET]所有轻重骑兵获得晋升:[COLOR:138:138:138:255]优良骏马[ENDCOLOR]，单位维护费[ICON_GOLD]+2，+1[ICON_MOVES]移动力、+1攻击次数，允许攻击后移动
-                [NEWLINE][ICON_BULLET]解锁一个后续晋升:[COLOR:138:138:138:255]汗血宝马[ENDCOLOR]，单位维护费[ICON_GOLD]+3，+1[ICON_MOVES]移动力，攻击时增加30%[ICON_STRENGTH]战斗力，+30[ICON_HP_SP]血量上限，一环内敌人降低20%[ICON_STRENGTH]战斗力。
+                [NEWLINE][ICON_BULLET]所有轻重骑兵获得晋升:[COLOR:138:138:138:255]优良骏马[ENDCOLOR]，[COLOR_NEGATIVE_TEXT]单位维护费[ENDCOLOR][ICON_GOLD]+2，+1[ICON_MOVES]移动力、+1攻击次数，允许攻击后移动
+                [NEWLINE][ICON_BULLET]解锁一个后续晋升:[COLOR:138:138:138:255]汗血宝马[ENDCOLOR]，[COLOR_NEGATIVE_TEXT]单位维护费[ENDCOLOR][ICON_GOLD]+3，+1[ICON_MOVES]移动力，攻击时增加30%[ICON_STRENGTH]战斗力，+30[ICON_HP_SP]血量上限，一环内敌人降低20%[ICON_STRENGTH]战斗力。
             </Text>
 		</Row>
 		<Row Tag="TXT_KEY_PROJECT_WAR_PT4_PEDIA">
@@ -99,13 +99,13 @@
 			<Text>[COLOR:138:138:138:255]优良骏马[ENDCOLOR]</Text>
 		</Row>
         <Row Tag="TXT_KEY_Promotion_WAR_PT4_HELP">
-			<Text>单位维护费[ICON_GOLD]+2，+1[ICON_MOVES]移动力、+1攻击次数，允许攻击后移动</Text>
+			<Text>[COLOR_NEGATIVE_TEXT]单位维护费[ENDCOLOR][ICON_GOLD]+2，+1[ICON_MOVES]移动力、+1攻击次数，允许攻击后移动</Text>
 		</Row>
         <Row Tag="TXT_KEY_Promotion_WAR_PT4_1">
 			<Text>[COLOR:138:138:138:255]汗血宝马[ENDCOLOR]</Text>
 		</Row>
         <Row Tag="TXT_KEY_Promotion_WAR_PT4_1_HELP">
-			<Text>单位维护费[ICON_GOLD]+3，+1[ICON_MOVES]移动力，攻击时增加30%[ICON_STRENGTH]战斗力，+30[ICON_HP_SP]血量上限，一环内敌人降低20%[ICON_STRENGTH]战斗力</Text>
+			<Text>[COLOR_NEGATIVE_TEXT]单位维护费[ENDCOLOR][ICON_GOLD]+3，+1[ICON_MOVES]移动力，攻击时增加30%[ICON_STRENGTH]战斗力，+30[ICON_HP_SP]血量上限，一环内敌人降低20%[ICON_STRENGTH]战斗力</Text>
 		</Row>
         <!-- 5 -->
          <Row Tag="TXT_KEY_PROJECT_WAR_PT5">
@@ -114,7 +114,7 @@
         <Row Tag="TXT_KEY_PROJECT_WAR_PT5_HELP">
 			<Text>只有[COLOR_POSITIVE_TEXT]首个[ENDCOLOR]完成此军事项目的文明可以获得强力的重装近战晋升线：
                 [NEWLINE][ICON_BULLET]所有陆军单位获得晋升:[COLOR:138:138:138:255]精良钢甲[ENDCOLOR]，+15[ICON_HP_SP]血量上限，对抗远程进攻时+25%[ICON_STRENGTH]战斗力
-                [NEWLINE][ICON_BULLET]重步兵和重骑兵解锁一个后续晋升:[COLOR:138:138:138:255]菱式拼接[ENDCOLOR]，单位维护费[ICON_GOLD]+3，攻击次数+1，移动无视地形消耗
+                [NEWLINE][ICON_BULLET]重步兵和重骑兵解锁一个后续晋升:[COLOR:138:138:138:255]菱式拼接[ENDCOLOR]，[COLOR_NEGATIVE_TEXT]单位维护费[ENDCOLOR][ICON_GOLD]+3，攻击次数+1，移动无视地形消耗
             </Text>
 		</Row>
 		<Row Tag="TXT_KEY_PROJECT_WAR_PT5_PEDIA">
@@ -130,7 +130,7 @@
 			<Text>[COLOR:138:138:138:255]菱式拼接[ENDCOLOR]</Text>
 		</Row>
         <Row Tag="TXT_KEY_Promotion_WAR_PT5_1_HELP">
-			<Text>单位维护费[ICON_GOLD]+3，攻击次数+1，移动无视地形消耗</Text>
+			<Text>[COLOR_NEGATIVE_TEXT]单位维护费[ENDCOLOR][ICON_GOLD]+3，攻击次数+1，移动无视地形消耗</Text>
 		</Row>
         <!-- 6 -->
         <Row Tag="TXT_KEY_PROJECT_WAR_PT6">
@@ -139,7 +139,7 @@
         <Row Tag="TXT_KEY_PROJECT_WAR_PT6_HELP">
 			<Text>只有[COLOR_POSITIVE_TEXT]首个[ENDCOLOR]完成此军事项目的文明可以获得强力的攻城单位晋升线：
                 [NEWLINE][ICON_BULLET]所有攻城系单位获得晋升:[COLOR:138:138:138:255]构造革新[ENDCOLOR]，+1[ICON_MOVES]移动力，+1[ICON_RANGE_STRENGTH]射程，
-                [NEWLINE][ICON_BULLET]解锁一个后续晋升:[COLOR:138:138:138:255]连珠机关[ENDCOLOR]，单位维护费[ICON_GOLD]+3，攻击次数+1，允许攻击后移动
+                [NEWLINE][ICON_BULLET]解锁一个后续晋升:[COLOR:138:138:138:255]连珠机关[ENDCOLOR]，[COLOR_NEGATIVE_TEXT]单位维护费[ENDCOLOR][ICON_GOLD]+3，攻击次数+1，允许攻击后移动
             </Text>
 		</Row>
 		<Row Tag="TXT_KEY_PROJECT_WAR_PT6_PEDIA">
@@ -155,7 +155,7 @@
 			<Text>[COLOR:138:138:138:255]连珠机关[ENDCOLOR]</Text>
 		</Row>
         <Row Tag="TXT_KEY_Promotion_WAR_PT6_1_HELP">
-			<Text>单位维护费[ICON_GOLD]+3，攻击次数+1，允许攻击后移动</Text>
+			<Text>[COLOR_NEGATIVE_TEXT]单位维护费[ENDCOLOR][ICON_GOLD]+3，攻击次数+1，允许攻击后移动</Text>
 		</Row>
         <!-- 7 -->
         <Row Tag="TXT_KEY_PROJECT_WAR_PT7">
@@ -164,7 +164,7 @@
         <Row Tag="TXT_KEY_PROJECT_WAR_PT7_HELP">
 			<Text>只有[COLOR_POSITIVE_TEXT]首个[ENDCOLOR]完成此军事项目的文明可以获得强力的特战单位晋升线：
                 [NEWLINE][ICON_BULLET]所有特战单位获得晋升:[COLOR:138:138:138:255]就地隐蔽[ENDCOLOR]，对抗远程攻击+100%[ICON_STRENGTH]战斗力，在复杂地形+30%[ICON_STRENGTH]战斗力
-                [NEWLINE][ICON_BULLET]解锁一个后续晋升:[COLOR:138:138:138:255]特种任务[ENDCOLOR]，单位维护费[ICON_GOLD]+3，允许修建道路，在森林和丘陵移动力翻倍，消除登陆惩罚
+                [NEWLINE][ICON_BULLET]解锁一个后续晋升:[COLOR:138:138:138:255]特种任务[ENDCOLOR]，[COLOR_NEGATIVE_TEXT]单位维护费[ENDCOLOR][ICON_GOLD]+3，允许修建道路，在森林和丘陵移动力翻倍，消除登陆惩罚
             </Text>
 		</Row>
 		<Row Tag="TXT_KEY_PROJECT_WAR_PT7_PEDIA">
@@ -180,7 +180,7 @@
 			<Text>[COLOR:138:138:138:255]特种任务[ENDCOLOR]</Text>
 		</Row>
         <Row Tag="TXT_KEY_Promotion_WAR_PT7_1_HELP">
-			<Text>单位维护费[ICON_GOLD]+3，允许修建道路，在森林和丘陵移动力翻倍，消除登陆惩罚</Text>
+			<Text>[COLOR_NEGATIVE_TEXT]单位维护费[ENDCOLOR][ICON_GOLD]+3，允许修建道路，在森林和丘陵移动力翻倍，消除登陆惩罚</Text>
 		</Row>
         <!-- 8 -->
         <Row Tag="TXT_KEY_PROJECT_WAR_PT8">
@@ -188,8 +188,8 @@
 		</Row>
         <Row Tag="TXT_KEY_PROJECT_WAR_PT8_HELP">
 			<Text>只有[COLOR_POSITIVE_TEXT]首个[ENDCOLOR]完成此军事项目的文明可以获得强力的骑兵单位晋升线：
-                [NEWLINE][ICON_BULLET]所有重骑兵和装甲单位获得晋升:[COLOR:138:138:138:255]铁壁冲锋[ENDCOLOR]，单位维护费[ICON_GOLD]+3，临近友军时+50%[ICON_STRENGTH]战斗力，夹击加成+100%
-                [NEWLINE][ICON_BULLET]解锁一个后续晋升:[COLOR:138:138:138:255]单骑突围[ENDCOLOR]，单位维护费[ICON_GOLD]+4，+1[ICON_MOVES]移动力，移动无视地形消耗
+                [NEWLINE][ICON_BULLET]所有重骑兵和装甲单位获得晋升:[COLOR:138:138:138:255]铁壁冲锋[ENDCOLOR]，[COLOR_NEGATIVE_TEXT]单位维护费[ENDCOLOR][ICON_GOLD]+3，临近友军时+50%[ICON_STRENGTH]战斗力，夹击加成+100%
+                [NEWLINE][ICON_BULLET]解锁一个后续晋升:[COLOR:138:138:138:255]单骑突围[ENDCOLOR]，[COLOR_NEGATIVE_TEXT]单位维护费[ENDCOLOR][ICON_GOLD]+4，+1[ICON_MOVES]移动力，移动无视地形消耗
             </Text>
 		</Row>
 		<Row Tag="TXT_KEY_PROJECT_WAR_PT8_PEDIA">
@@ -199,13 +199,13 @@
 			<Text>[COLOR:138:138:138:255]铁壁冲锋[ENDCOLOR]</Text>
 		</Row>
         <Row Tag="TXT_KEY_Promotion_WAR_PT8_HELP">
-			<Text>单位维护费[ICON_GOLD]+3，临近友军时+50%[ICON_STRENGTH]战斗力，夹击加成+100%</Text>
+			<Text>[COLOR_NEGATIVE_TEXT]单位维护费[ENDCOLOR][ICON_GOLD]+3，临近友军时+50%[ICON_STRENGTH]战斗力，夹击加成+100%</Text>
 		</Row>
         <Row Tag="TXT_KEY_Promotion_WAR_PT8_1">
 			<Text>[COLOR:138:138:138:255]单骑突围[ENDCOLOR]</Text>
 		</Row>
         <Row Tag="TXT_KEY_Promotion_WAR_PT8_1_HELP">
-			<Text>单位维护费[ICON_GOLD]+4，+1[ICON_MOVES]移动力，移动无视地形消耗</Text>
+			<Text>[COLOR_NEGATIVE_TEXT]单位维护费[ENDCOLOR][ICON_GOLD]+4，+1[ICON_MOVES]移动力，移动无视地形消耗</Text>
 		</Row>
         <!-- 9 -->
         <Row Tag="TXT_KEY_PROJECT_WAR_PT9">
@@ -215,10 +215,10 @@
 			<Text>只有[COLOR_POSITIVE_TEXT]首个[ENDCOLOR]完成此军事项目的文明可以获得强力的海军单位晋升线：
                 [NEWLINE][ICON_BULLET]所有海军单位获得晋升:[COLOR:138:138:138:255]防水夹层[ENDCOLOR]，+1[ICON_MOVES]移动力，对抗远程攻击+25%[ICON_STRENGTH]战斗力
                 [NEWLINE][ICON_BULLET]解锁四个后续晋升:
-                [NEWLINE][ICON_BULLET]1.[COLOR:138:138:138:255]火炮强化[ENDCOLOR]，单位维护费[ICON_GOLD]+8，进攻时+20%[ICON_STRENGTH]战斗力，攻击城市额外+20%[ICON_STRENGTH]战斗力，远程单位+1[ICON_RANGE_STRENGTH]射程
-                [NEWLINE][ICON_BULLET]2.[COLOR:138:138:138:255]船帆改革[ENDCOLOR]，单位维护费[ICON_GOLD]+8，+2[ICON_MOVES]移动力，攻击次数+1，允许攻击后移动
-                [NEWLINE][ICON_BULLET]3.[COLOR:138:138:138:255]装甲强化[ENDCOLOR]，单位维护费[ICON_GOLD]+8，[COLOR_NEGATIVE_TEXT]移动力-1[ENDCOLOR],+50[ICON_HP_SP]血量上限，防御时+50%[ICON_STRENGTH]战斗力
-                [NEWLINE][ICON_BULLET]4.[COLOR:138:138:138:255]船舱改造[ENDCOLOR]，单位维护费[ICON_GOLD]+8，+100[ICON_HP_SP]血量上限，允许每回合回复血量
+                [NEWLINE][ICON_BULLET]1.[COLOR:138:138:138:255]火炮强化[ENDCOLOR]，[COLOR_NEGATIVE_TEXT]单位维护费[ENDCOLOR][ICON_GOLD]+8，进攻时+20%[ICON_STRENGTH]战斗力，攻击城市额外+20%[ICON_STRENGTH]战斗力，远程单位+1[ICON_RANGE_STRENGTH]射程
+                [NEWLINE][ICON_BULLET]2.[COLOR:138:138:138:255]船帆改革[ENDCOLOR]，[COLOR_NEGATIVE_TEXT]单位维护费[ENDCOLOR][ICON_GOLD]+8，+2[ICON_MOVES]移动力，攻击次数+1，允许攻击后移动
+                [NEWLINE][ICON_BULLET]3.[COLOR:138:138:138:255]装甲强化[ENDCOLOR]，[COLOR_NEGATIVE_TEXT]单位维护费[ENDCOLOR][ICON_GOLD]+8，[COLOR_NEGATIVE_TEXT]移动力-1[ENDCOLOR],+50[ICON_HP_SP]血量上限，防御时+50%[ICON_STRENGTH]战斗力
+                [NEWLINE][ICON_BULLET]4.[COLOR:138:138:138:255]船舱改造[ENDCOLOR]，[COLOR_NEGATIVE_TEXT]单位维护费[ENDCOLOR][ICON_GOLD]+8，+100[ICON_HP_SP]血量上限，允许每回合回复血量
             </Text>
 		</Row>
         <Row Tag="TXT_KEY_PROJECT_WAR_PT9_PEDIA">
@@ -234,7 +234,7 @@
 			<Text>[COLOR:138:138:138:255]火炮强化[ENDCOLOR]</Text>
 		</Row>
         <Row Tag="TXT_KEY_Promotion_WAR_PT9_1_HELP">
-			<Text>单位维护费[ICON_GOLD]+8，进攻时+20%[ICON_STRENGTH]战斗力，攻击城市额外+20%[ICON_STRENGTH]战斗力，远程单位+1[ICON_RANGE_STRENGTH]射程</Text>
+			<Text>[COLOR_NEGATIVE_TEXT]单位维护费[ENDCOLOR][ICON_GOLD]+8，进攻时+20%[ICON_STRENGTH]战斗力，攻击城市额外+20%[ICON_STRENGTH]战斗力，远程单位+1[ICON_RANGE_STRENGTH]射程</Text>
 		</Row>
         <Row Tag="TXT_KEY_Promotion_WAR_PT9_2">
 			<Text>[COLOR:138:138:138:255]船帆改革[ENDCOLOR]</Text>
@@ -246,13 +246,13 @@
 			<Text>[COLOR:138:138:138:255]装甲强化[ENDCOLOR]</Text>
 		</Row>
         <Row Tag="TXT_KEY_Promotion_WAR_PT9_3_HELP">
-			<Text>单位维护费[ICON_GOLD]+8，[COLOR_NEGATIVE_TEXT]移动力-1[ENDCOLOR],+50[ICON_HP_SP]血量上限，防御时+50%[ICON_STRENGTH]战斗力</Text>
+			<Text>[COLOR_NEGATIVE_TEXT]单位维护费[ENDCOLOR][ICON_GOLD]+8，[COLOR_NEGATIVE_TEXT]移动力-1[ENDCOLOR],+50[ICON_HP_SP]血量上限，防御时+50%[ICON_STRENGTH]战斗力</Text>
 		</Row>
         <Row Tag="TXT_KEY_Promotion_WAR_PT9_4">
 			<Text>[COLOR:138:138:138:255]船舱改造[ENDCOLOR]</Text>
 		</Row>
         <Row Tag="TXT_KEY_Promotion_WAR_PT9_4_HELP">
-			<Text>单位维护费[ICON_GOLD]+8，+100[ICON_HP_SP]血量上限，允许每回合回复血量</Text>
+			<Text>[COLOR_NEGATIVE_TEXT]单位维护费[ENDCOLOR][ICON_GOLD]+8，+100[ICON_HP_SP]血量上限，允许每回合回复血量</Text>
 		</Row>
         
         <!-- 10 -->
@@ -262,7 +262,7 @@
         <Row Tag="TXT_KEY_PROJECT_WAR_PT10_HELP">
 			<Text>只有[COLOR_POSITIVE_TEXT]首个[ENDCOLOR]完成此军事项目的文明可以获得强力的火药步兵晋升线：
                 [NEWLINE][ICON_BULLET]空军和航母以外所有单位获得晋升:[COLOR:138:138:138:255]火药改良[ENDCOLOR]，攻击时+15%[ICON_STRENGTH]战斗力
-                [NEWLINE][ICON_BULLET]火药步兵系解锁一个后续晋升:[COLOR:138:138:138:255]便携弹药[ENDCOLOR]，单位维护费[ICON_GOLD]+4，+1[ICON_MOVES]移动力，+1攻击次数
+                [NEWLINE][ICON_BULLET]火药步兵系解锁一个后续晋升:[COLOR:138:138:138:255]便携弹药[ENDCOLOR]，[COLOR_NEGATIVE_TEXT]单位维护费[ENDCOLOR][ICON_GOLD]+4，+1[ICON_MOVES]移动力，+1攻击次数
             </Text>
 		</Row>
 		<Row Tag="TXT_KEY_PROJECT_WAR_PT10_PEDIA">
@@ -278,7 +278,7 @@
 			<Text>[COLOR:138:138:138:255]便携弹药[ENDCOLOR]</Text>
 		</Row>
         <Row Tag="TXT_KEY_Promotion_WAR_PT10_1_HELP">
-			<Text>单位维护费[ICON_GOLD]+4，+1[ICON_MOVES]移动力，+1攻击次数</Text>
+			<Text>[COLOR_NEGATIVE_TEXT]单位维护费[ENDCOLOR][ICON_GOLD]+4，+1[ICON_MOVES]移动力，+1攻击次数</Text>
 		</Row>
         <!-- 11 -->
         <Row Tag="TXT_KEY_PROJECT_WAR_PT11">
@@ -287,7 +287,7 @@
         <Row Tag="TXT_KEY_PROJECT_WAR_PT11_HELP">
 			<Text>只有[COLOR_POSITIVE_TEXT]首个[ENDCOLOR]完成此军事项目的文明可以获得强力的重骑兵和装甲单位晋升线：
                 [NEWLINE][ICON_BULLET]所有正规军单位获得晋升:[COLOR:138:138:138:255]强化甲具[ENDCOLOR]，防御时+25%[ICON_STRENGTH]战斗力，受到伤害固定-2
-                [NEWLINE][ICON_BULLET]重骑兵和装甲单位解锁一个后续晋升:[COLOR:138:138:138:255]战车前瞻[ENDCOLOR]，单位维护费[ICON_GOLD]+5，+20[ICON_HP_SP]血量上限，受到伤害固定-2，对抗远程攻击+25%[ICON_STRENGTH]战斗力
+                [NEWLINE][ICON_BULLET]重骑兵和装甲单位解锁一个后续晋升:[COLOR:138:138:138:255]战车前瞻[ENDCOLOR]，[COLOR_NEGATIVE_TEXT]单位维护费[ENDCOLOR][ICON_GOLD]+5，+20[ICON_HP_SP]血量上限，受到伤害固定-2，对抗远程攻击+25%[ICON_STRENGTH]战斗力
             </Text>
 		</Row>
 		<Row Tag="TXT_KEY_PROJECT_WAR_PT11_PEDIA">
@@ -303,7 +303,7 @@
 			<Text>[COLOR:138:138:138:255]战车前瞻[ENDCOLOR]</Text>
 		</Row>
         <Row Tag="TXT_KEY_Promotion_WAR_PT11_1_HELP">
-			<Text>单位维护费[ICON_GOLD]+5，+20[ICON_HP_SP]血量上限，受到伤害固定-2，对抗远程攻击+25%[ICON_STRENGTH]战斗力</Text>
+			<Text>[COLOR_NEGATIVE_TEXT]单位维护费[ENDCOLOR][ICON_GOLD]+5，+20[ICON_HP_SP]血量上限，受到伤害固定-2，对抗远程攻击+25%[ICON_STRENGTH]战斗力</Text>
 		</Row>
         <!-- 12 -->
         <Row Tag="TXT_KEY_PROJECT_WAR_PT12">
@@ -312,7 +312,7 @@
         <Row Tag="TXT_KEY_PROJECT_WAR_PT12_HELP">
 			<Text>只有[COLOR_POSITIVE_TEXT]首个[ENDCOLOR]完成此军事项目的文明可以获得强力的海军晋升线：
                 [NEWLINE][ICON_BULLET]所有海军单位获得晋升:[COLOR:138:138:138:255]船型优化[ENDCOLOR]，+1[ICON_MOVES]移动力，对抗海军时+20%[ICON_STRENGTH]战斗力，允许攻击后移动
-                [NEWLINE][ICON_BULLET]海军游猎单位解锁一个后续晋升:[COLOR:138:138:138:255]海怪传说[ENDCOLOR]，单位维护费[ICON_GOLD]+10，攻击次数和攻击范围[ICON_RANGE_STRENGTH]+1
+                [NEWLINE][ICON_BULLET]海军游猎单位解锁一个后续晋升:[COLOR:138:138:138:255]海怪传说[ENDCOLOR]，[COLOR_NEGATIVE_TEXT]单位维护费[ENDCOLOR][ICON_GOLD]+10，攻击次数和攻击范围[ICON_RANGE_STRENGTH]+1
             </Text>
 		</Row>
 		<Row Tag="TXT_KEY_PROJECT_WAR_PT12_PEDIA">
@@ -328,7 +328,7 @@
 			<Text>[COLOR:138:138:138:255]海怪传说[ENDCOLOR]</Text>
 		</Row>
         <Row Tag="TXT_KEY_Promotion_WAR_PT12_1_HELP">
-			<Text>单位维护费[ICON_GOLD]+10，攻击次数和攻击范围[ICON_RANGE_STRENGTH]+1</Text>
+			<Text>[COLOR_NEGATIVE_TEXT]单位维护费[ENDCOLOR][ICON_GOLD]+10，攻击次数和攻击范围[ICON_RANGE_STRENGTH]+1</Text>
 		</Row>
         <!-- 13 -->
          <Row Tag="TXT_KEY_PROJECT_WAR_PT13">
@@ -337,7 +337,7 @@
         <Row Tag="TXT_KEY_PROJECT_WAR_PT13_HELP">
 			<Text>只有[COLOR_POSITIVE_TEXT]首个[ENDCOLOR]完成此军事项目的文明可以获得强力的海军晋升线：
                 [NEWLINE][ICON_BULLET]所有海军单位获得晋升:[COLOR:138:138:138:255]海洋霸主[ENDCOLOR]，对抗陆军时+50%[ICON_STRENGTH]战斗力，攻击城市时+30%[ICON_STRENGTH]战斗力
-                [NEWLINE][ICON_BULLET]海军远程单位解锁一个后续晋升:[COLOR:138:138:138:255]钢铁巨舰[ENDCOLOR]，单位维护费[ICON_GOLD]+10，攻击范围[ICON_RANGE_STRENGTH]+1,攻击次数+1，对抗射程低于自身的同领域单位时每相差1射程增加10%[ICON_STRENGTH]战斗力，允许攻击后移动
+                [NEWLINE][ICON_BULLET]海军远程单位解锁一个后续晋升:[COLOR:138:138:138:255]钢铁巨舰[ENDCOLOR]，[COLOR_NEGATIVE_TEXT]单位维护费[ENDCOLOR][ICON_GOLD]+10，攻击范围[ICON_RANGE_STRENGTH]+1,攻击次数+1，对抗射程低于自身的同领域单位时每相差1射程增加10%[ICON_STRENGTH]战斗力，允许攻击后移动
             </Text>
 		</Row>
 		<Row Tag="TXT_KEY_PROJECT_WAR_PT13_PEDIA">
@@ -353,7 +353,7 @@
 			<Text>[COLOR:138:138:138:255]钢铁巨舰[ENDCOLOR]</Text>
 		</Row>
         <Row Tag="TXT_KEY_Promotion_WAR_PT13_1_HELP">
-			<Text>单位维护费[ICON_GOLD]+10，攻击范围[ICON_RANGE_STRENGTH]+1,攻击次数+1，对抗射程低于自身的同领域单位时每相差1射程增加10%[ICON_STRENGTH]战斗力，允许攻击后移动</Text>
+			<Text>[COLOR_NEGATIVE_TEXT]单位维护费[ENDCOLOR][ICON_GOLD]+10，攻击范围[ICON_RANGE_STRENGTH]+1,攻击次数+1，对抗射程低于自身的同领域单位时每相差1射程增加10%[ICON_STRENGTH]战斗力，允许攻击后移动</Text>
 		</Row>
         <!-- 14 -->
         <Row Tag="TXT_KEY_PROJECT_WAR_PT14">
@@ -362,7 +362,7 @@
         <Row Tag="TXT_KEY_PROJECT_WAR_PT14_HELP">
 			<Text>只有[COLOR_POSITIVE_TEXT]首个[ENDCOLOR]完成此军事项目的文明可以获得强力的空军晋升线：
                 [NEWLINE][ICON_BULLET]所有空军单位获得晋升:[COLOR:138:138:138:255]空气动力模型[ENDCOLOR]，攻击范围[ICON_RANGE_STRENGTH]+3，+20[ICON_HP_SP]血量上限
-                [NEWLINE][ICON_BULLET]攻击机系解锁一个后续晋升:[COLOR:138:138:138:255]钢架改良[ENDCOLOR]，单位维护费[ICON_GOLD]+12，攻击范围[ICON_RANGE_STRENGTH]+4,攻击次数+1
+                [NEWLINE][ICON_BULLET]攻击机系解锁一个后续晋升:[COLOR:138:138:138:255]钢架改良[ENDCOLOR]，[COLOR_NEGATIVE_TEXT]单位维护费[ENDCOLOR][ICON_GOLD]+12，攻击范围[ICON_RANGE_STRENGTH]+4,攻击次数+1
             </Text>
 		</Row>
 		<Row Tag="TXT_KEY_PROJECT_WAR_PT14_PEDIA">
@@ -378,14 +378,14 @@
 			<Text>[COLOR:138:138:138:255]钢架改良[ENDCOLOR]</Text>
 		</Row>
         <Row Tag="TXT_KEY_Promotion_WAR_PT14_1_HELP">
-			<Text>单位维护费[ICON_GOLD]+12，攻击范围[ICON_RANGE_STRENGTH]+4,攻击次数+1</Text>
+			<Text>[COLOR_NEGATIVE_TEXT]单位维护费[ENDCOLOR][ICON_GOLD]+12，攻击范围[ICON_RANGE_STRENGTH]+4,攻击次数+1</Text>
 		</Row>
         <!-- 15 -->
         <Row Tag="TXT_KEY_PROJECT_WAR_PT15">
 			<Text>[COLOR:138:138:138:255]标准化生产[ENDCOLOR]</Text>
 		</Row>
         <Row Tag="TXT_KEY_PROJECT_WAR_PT15_HELP">
-			<Text>只有[COLOR_POSITIVE_TEXT]首个[ENDCOLOR]完成此军事项目的文明可以获得强力晋升:所有单位回血时额外回复10点血量
+			<Text>只有[COLOR_POSITIVE_TEXT]首个[ENDCOLOR]完成此军事项目的文明可以获得强力晋升:所有单位+10[ICON_HP_SP]血量上限,回血时额外回复10点血量
             </Text>
 		</Row>
 		<Row Tag="TXT_KEY_PROJECT_WAR_PT15_PEDIA">
@@ -395,7 +395,7 @@
 			<Text>[COLOR:138:138:138:255]标准化生产[ENDCOLOR]</Text>
 		</Row>
         <Row Tag="TXT_KEY_Promotion_WAR_PT15_HELP">
-			<Text>回血时额外回复10点血量</Text>
+			<Text>+10[ICON_HP_SP]血量上限,回血时额外回复10点血量</Text>
 		</Row>
         <!-- 16 -->
         <Row Tag="TXT_KEY_PROJECT_WAR_PT16">
@@ -420,7 +420,7 @@
 		</Row>
         <Row Tag="TXT_KEY_PROJECT_WAR_PT17_HELP">
 			<Text>只有[COLOR_POSITIVE_TEXT]首个[ENDCOLOR]完成此军事项目的文明可以获得强力的航母晋升线：
-                [NEWLINE][ICON_BULLET]所有航母获得晋升:[COLOR:138:138:138:255]甲板扩展[ENDCOLOR]，单位维护费[ICON_GOLD]+14，+2载机位
+                [NEWLINE][ICON_BULLET]所有航母获得晋升:[COLOR:138:138:138:255]甲板扩展[ENDCOLOR]，[COLOR_NEGATIVE_TEXT]单位维护费[ENDCOLOR][ICON_GOLD]+14，+2载机位
                 [NEWLINE][ICON_BULLET]解锁一个后续晋升:[COLOR:138:138:138:255]区域霸主[ENDCOLOR]，自身+2载机位,+50[ICON_HP_SP]额外血量、+16维护费[ICON_GOLD]、+1[ICON_MOVES]移动力
                 [NEWLINE]自身搭载的舰载机+25[ICON_HP_SP]额外血量、+8维护费[ICON_GOLD]、+1额外攻击次数
             </Text>
@@ -432,7 +432,7 @@
 			<Text>[COLOR:138:138:138:255]甲板扩展[ENDCOLOR]</Text>
 		</Row>
         <Row Tag="TXT_KEY_Promotion_WAR_PT17_HELP">
-			<Text>单位维护费[ICON_GOLD]+14，+2载机位</Text>
+			<Text>[COLOR_NEGATIVE_TEXT]单位维护费[ENDCOLOR][ICON_GOLD]+14，+2载机位</Text>
 		</Row>
         <Row Tag="TXT_KEY_Promotion_WAR_PT17_1">
 			<Text>[COLOR:138:138:138:255]区域霸主[ENDCOLOR]</Text>
@@ -457,7 +457,7 @@
         <Row Tag="TXT_KEY_PROJECT_WAR_PT18_HELP">
 			<Text>只有[COLOR_POSITIVE_TEXT]首个[ENDCOLOR]完成此军事项目的文明可以获得强力的海军远程晋升线：
                 [NEWLINE][ICON_BULLET]所有海军远程单位获得晋升:[COLOR:138:138:138:255]巨舰大炮[ENDCOLOR]，攻击范围[ICON_RANGE_STRENGTH]+2，射击范围无视地形阻碍
-                [NEWLINE][ICON_BULLET]解锁一个后续晋升:[COLOR:138:138:138:255]饱和打击[ENDCOLOR]，单位维护费[ICON_GOLD]+14，+50%同格穿透伤害，+50%一环溅射伤害
+                [NEWLINE][ICON_BULLET]解锁一个后续晋升:[COLOR:138:138:138:255]饱和打击[ENDCOLOR]，[COLOR_NEGATIVE_TEXT]单位维护费[ENDCOLOR][ICON_GOLD]+14，+50%同格穿透伤害，+50%一环溅射伤害
             </Text>
 		</Row>
 		<Row Tag="TXT_KEY_PROJECT_WAR_PT18_PEDIA">
@@ -473,7 +473,7 @@
 			<Text>[COLOR:138:138:138:255]饱和打击[ENDCOLOR]</Text>
 		</Row>
         <Row Tag="TXT_KEY_Promotion_WAR_PT18_1_HELP">
-			<Text>单位维护费[ICON_GOLD]+14，+50%同格穿透伤害，+50%一环溅射伤害</Text>
+			<Text>[COLOR_NEGATIVE_TEXT]单位维护费[ENDCOLOR][ICON_GOLD]+14，+50%同格穿透伤害，+50%一环溅射伤害</Text>
 		</Row>
         <!-- 19 -->
         <Row Tag="TXT_KEY_PROJECT_WAR_PT19">
@@ -517,7 +517,7 @@
         <Row Tag="TXT_KEY_PROJECT_WAR_PT21_HELP">
 			<Text>只有[COLOR_POSITIVE_TEXT]首个[ENDCOLOR]完成此军事项目的文明可以获得强力的空军晋升线：
                 [NEWLINE][ICON_BULLET]所有空军单位获得晋升:[COLOR:138:138:138:255]引擎升级[ENDCOLOR]，攻击范围[ICON_RANGE_STRENGTH]+3，回复时每回合额外回复15血量
-                [NEWLINE][ICON_BULLET]轰炸机系解锁一个后续晋升:[COLOR:138:138:138:255]区域打击[ENDCOLOR]，单位维护费[ICON_GOLD]+16，攻击时对一环敌人造成50%溅射伤害,攻击次数+1
+                [NEWLINE][ICON_BULLET]轰炸机系解锁一个后续晋升:[COLOR:138:138:138:255]区域打击[ENDCOLOR]，[COLOR_NEGATIVE_TEXT]单位维护费[ENDCOLOR][ICON_GOLD]+16，攻击时对一环敌人造成50%溅射伤害,攻击次数+1
             </Text>
 		</Row>
 		<Row Tag="TXT_KEY_PROJECT_WAR_PT21_PEDIA">
@@ -533,7 +533,7 @@
 			<Text>[COLOR:138:138:138:255]区域打击[ENDCOLOR]</Text>
 		</Row>
         <Row Tag="TXT_KEY_Promotion_WAR_PT21_1_HELP">
-			<Text>单位维护费[ICON_GOLD]+16，攻击时对一环敌人造成50%溅射伤害,攻击次数+1</Text>
+			<Text>[COLOR_NEGATIVE_TEXT]单位维护费[ENDCOLOR][ICON_GOLD]+16，攻击时对一环敌人造成50%溅射伤害,攻击次数+1</Text>
 		</Row>
         <!-- 22 -->
         <Row Tag="TXT_KEY_PROJECT_WAR_PT22">
@@ -541,7 +541,7 @@
 		</Row>
         <Row Tag="TXT_KEY_PROJECT_WAR_PT22_HELP">
 			<Text>只有[COLOR_POSITIVE_TEXT]首个[ENDCOLOR]完成此军事项目的文明可以获得强力的防空晋升线：
-                [NEWLINE][ICON_BULLET]所有防空单位获得晋升:[COLOR:138:138:138:255]区域协防[ENDCOLOR]，单位维护费[ICON_GOLD]+9，+1额外拦截次数+1拦截范围且在拦截时增加400%[ICON_STRENGTH]战斗力
+                [NEWLINE][ICON_BULLET]所有防空单位获得晋升:[COLOR:138:138:138:255]区域协防[ENDCOLOR]，[COLOR_NEGATIVE_TEXT]单位维护费[ENDCOLOR][ICON_GOLD]+9，+1额外拦截次数+1拦截范围且在拦截时增加400%[ICON_STRENGTH]战斗力
                 [NEWLINE][ICON_BULLET]同时这些单位两环内友军对抗空军时+100%[ICON_STRENGTH]战斗力
             </Text>
 		</Row>
@@ -552,7 +552,7 @@
 			<Text>[COLOR:138:138:138:255]区域协防[ENDCOLOR]</Text>
 		</Row>
         <Row Tag="TXT_KEY_Promotion_WAR_PT22_HELP">
-			<Text>单位维护费[ICON_GOLD]+9，+1额外拦截次数+1拦截范围且在拦截时增加400%[ICON_STRENGTH]战斗力
+			<Text>[COLOR_NEGATIVE_TEXT]单位维护费[ENDCOLOR][ICON_GOLD]+9，+1额外拦截次数+1拦截范围且在拦截时增加400%[ICON_STRENGTH]战斗力
                 [NEWLINE]两环内友军对抗空军时+100%[ICON_STRENGTH]战斗力
             </Text>
 		</Row>
@@ -570,7 +570,7 @@
 		</Row>
         <Row Tag="TXT_KEY_PROJECT_WAR_PT23_HELP">
 			<Text>只有[COLOR_POSITIVE_TEXT]首个[ENDCOLOR]完成此军事项目的文明可以获得强力的特战单位晋升：
-                [NEWLINE][ICON_BULLET]所有特战单位获得晋升:[COLOR:138:138:138:255]卫星导航[ENDCOLOR]，空投距离+5，单位维护费[ICON_GOLD]+9，+1[ICON_MOVES]移动力，+1攻击次数，攻击城市时+200%[ICON_STRENGTH]战斗力
+                [NEWLINE][ICON_BULLET]所有特战单位获得晋升:[COLOR:138:138:138:255]卫星导航[ENDCOLOR]，空投距离+5，[COLOR_NEGATIVE_TEXT]单位维护费[ENDCOLOR][ICON_GOLD]+9，+1[ICON_MOVES]移动力，+1攻击次数，攻击城市时+200%[ICON_STRENGTH]战斗力
             </Text>
 		</Row>
 		<Row Tag="TXT_KEY_PROJECT_WAR_PT23_PEDIA">
@@ -580,7 +580,7 @@
 			<Text>[COLOR:138:138:138:255]卫星导航[ENDCOLOR]</Text>
 		</Row>
         <Row Tag="TXT_KEY_Promotion_WAR_PT23_HELP">
-			<Text>空投距离+5，允许境外空投，单位维护费[ICON_GOLD]+9，+1[ICON_MOVES]移动力，+1攻击次数，攻击城市时+200%[ICON_STRENGTH]战斗力</Text>
+			<Text>空投距离+5，允许境外空投，[COLOR_NEGATIVE_TEXT]单位维护费[ENDCOLOR][ICON_GOLD]+9，+1[ICON_MOVES]移动力，+1攻击次数，攻击城市时+200%[ICON_STRENGTH]战斗力</Text>
 		</Row>
         <!-- 24 -->
         <Row Tag="TXT_KEY_PROJECT_WAR_PT24">
@@ -588,7 +588,7 @@
 		</Row>
         <Row Tag="TXT_KEY_PROJECT_WAR_PT24_HELP">
 			<Text>只有[COLOR_POSITIVE_TEXT]首个[ENDCOLOR]完成此军事项目的文明可以获得强力的航母晋升线：
-                [NEWLINE][ICON_BULLET]所有航母获得晋升:[COLOR:138:138:138:255]自动维修程序[ENDCOLOR]，单位维护费[ICON_GOLD]+18，+1载机位，+100[ICON_HP_SP]额外血量，一环内海军友军每回合都会回复血量且远程单位+2[ICON_RANGE_STRENGTH]射程
+                [NEWLINE][ICON_BULLET]所有航母获得晋升:[COLOR:138:138:138:255]自动维修程序[ENDCOLOR]，[COLOR_NEGATIVE_TEXT]单位维护费[ENDCOLOR][ICON_GOLD]+18，+1载机位，+100[ICON_HP_SP]额外血量，一环内海军友军每回合都会回复血量且远程单位+2[ICON_RANGE_STRENGTH]射程
                 [NEWLINE][ICON_BULLET]解锁一个后续晋升:[COLOR:138:138:138:255]弹射器迭代[ENDCOLOR]，自身+1载机位,+9维护费[ICON_GOLD]
                 [NEWLINE]自身搭载的舰载机+25[ICON_HP_SP]额外血量、+9维护费[ICON_GOLD]、+1额外攻击次数
             </Text>
@@ -600,7 +600,7 @@
 			<Text>[COLOR:138:138:138:255]自动维修程序[ENDCOLOR]</Text>
 		</Row>
         <Row Tag="TXT_KEY_Promotion_WAR_PT24_HELP">
-			<Text>单位维护费[ICON_GOLD]+18，+1载机位，+100[ICON_HP_SP]额外血量，一环内海军友军每回合都会回复血量且远程单位+2[ICON_RANGE_STRENGTH]射程</Text>
+			<Text>[COLOR_NEGATIVE_TEXT]单位维护费[ENDCOLOR][ICON_GOLD]+18，+1载机位，+100[ICON_HP_SP]额外血量，一环内海军友军每回合都会回复血量且远程单位+2[ICON_RANGE_STRENGTH]射程</Text>
 		</Row>
         <Row Tag="TXT_KEY_Promotion_WAR_PT24_1">
 			<Text>[COLOR:0:204:0:255]程序维修中[ENDCOLOR]</Text>
@@ -629,7 +629,7 @@
 		</Row>
         <Row Tag="TXT_KEY_PROJECT_WAR_PT25_HELP">
 			<Text>只有[COLOR_POSITIVE_TEXT]首个[ENDCOLOR]完成此军事项目的文明可以获得强力的无人单位晋升：
-                [NEWLINE][ICON_BULLET]所有单位获得晋升:[COLOR:138:138:138:255]无人装备协助[ENDCOLOR]，单位维护费[ICON_GOLD]+3，死亡造成的战争伤亡减半
+                [NEWLINE][ICON_BULLET]所有单位获得晋升:[COLOR:138:138:138:255]无人装备协助[ENDCOLOR]，[COLOR_NEGATIVE_TEXT]单位维护费[ENDCOLOR][ICON_GOLD]+3，死亡造成的战争伤亡减半
                 [NEWLINE][ICON_BULLET]所有无人飞机获得晋升:[COLOR:138:138:138:255]自杀式袭击[ENDCOLOR]，攻击时+200%[ICON_STRENGTH]战斗力
             </Text>
 		</Row>
@@ -640,7 +640,7 @@
 			<Text>[COLOR:138:138:138:255]无人装备协助[ENDCOLOR]</Text>
 		</Row>
         <Row Tag="TXT_KEY_Promotion_WAR_PT25_HELP">
-			<Text>单位维护费[ICON_GOLD]+3，死亡造成的战争伤亡减半</Text>
+			<Text>[COLOR_NEGATIVE_TEXT]单位维护费[ENDCOLOR][ICON_GOLD]+3，死亡造成的战争伤亡减半</Text>
 		</Row>
         <Row Tag="TXT_KEY_Promotion_WAR_PT25_1">
 			<Text>[COLOR:138:138:138:255]自杀式袭击[ENDCOLOR]</Text>
@@ -654,7 +654,7 @@
 		</Row>
         <Row Tag="TXT_KEY_PROJECT_WAR_PT26_HELP">
 			<Text>只有[COLOR_POSITIVE_TEXT]首个[ENDCOLOR]完成此军事项目的文明可以获得强力的航母和舰载机晋升：
-                [NEWLINE][ICON_BULLET]所有航母获得晋升:[COLOR:138:138:138:255]自动指战核心[ENDCOLOR]，单位维护费[ICON_GOLD]+20，+2载机位,两环内海军友军对抗远程攻击+300%[ICON_STRENGTH]战斗力
+                [NEWLINE][ICON_BULLET]所有航母获得晋升:[COLOR:138:138:138:255]自动指战核心[ENDCOLOR]，[COLOR_NEGATIVE_TEXT]单位维护费[ENDCOLOR][ICON_GOLD]+20，+2载机位,两环内海军友军对抗远程攻击+300%[ICON_STRENGTH]战斗力
                 [NEWLINE][ICON_BULLET]所有舰载机获得晋升:[COLOR:138:138:138:255]无人化[ENDCOLOR]，死亡不再产生战争伤亡，+10维护费[ICON_GOLD]，攻击次数+2，攻击范围[ICON_RANGE_STRENGTH]+5
             </Text>
 		</Row>
@@ -665,7 +665,7 @@
 			<Text>[COLOR:138:138:138:255]自动指战核心[ENDCOLOR]</Text>
 		</Row>
         <Row Tag="TXT_KEY_Promotion_WAR_PT26_HELP">
-			<Text>单位维护费[ICON_GOLD]+20，+2载机位,两环内海军友军对抗远程攻击+300%[ICON_STRENGTH]战斗力</Text>
+			<Text>[COLOR_NEGATIVE_TEXT]单位维护费[ENDCOLOR][ICON_GOLD]+20，+2载机位,两环内海军友军对抗远程攻击+300%[ICON_STRENGTH]战斗力</Text>
 		</Row>
         <Row Tag="TXT_KEY_Promotion_WAR_PT26_1">
 			<Text>[COLOR:138:138:138:255]无人化[ENDCOLOR]</Text>
@@ -682,12 +682,12 @@
             </Text>
 		</Row>
         <!-- 27 -->
-         <Row Tag="TXT_KEY_PROJECT_WAR_PT27">
+        <Row Tag="TXT_KEY_PROJECT_WAR_PT27">
 			<Text>[COLOR:138:138:138:255]终焉计划[ENDCOLOR]</Text>
 		</Row>
         <Row Tag="TXT_KEY_PROJECT_WAR_PT27_HELP">
 			<Text>只有[COLOR_POSITIVE_TEXT]首个[ENDCOLOR]完成此军事项目的文明可以获得强力的装甲晋升：
-                [NEWLINE][ICON_BULLET]所有装甲单位获得晋升:[COLOR:138:138:138:255]终焉谕令[ENDCOLOR]，允许30格空投，单位维护费[ICON_GOLD]+11，攻击次数+1
+                [NEWLINE][ICON_BULLET]所有装甲单位获得晋升:[COLOR:138:138:138:255]终焉谕令[ENDCOLOR]，允许30格空投，[COLOR_NEGATIVE_TEXT]单位维护费[ENDCOLOR][ICON_GOLD]+11，攻击次数+1
             </Text>
 		</Row>
 		<Row Tag="TXT_KEY_PROJECT_WAR_PT27_PEDIA">
@@ -697,7 +697,303 @@
 			<Text>[COLOR:138:138:138:255]终焉谕令[ENDCOLOR]</Text>
 		</Row>
         <Row Tag="TXT_KEY_Promotion_WAR_PT27_HELP">
-			<Text>允许30格空投，单位维护费[ICON_GOLD]+11，攻击次数+1</Text>
+			<Text>允许30格空投，[COLOR_NEGATIVE_TEXT]单位维护费[ENDCOLOR][ICON_GOLD]+11，攻击次数+1</Text>
+		</Row>
+		<!-- 28 -->
+		<Row Tag="TXT_KEY_PROJECT_WAR_PT28">
+			<Text>[COLOR:138:138:138:255]波浪攻势[ENDCOLOR]</Text>
+		</Row>
+        <Row Tag="TXT_KEY_PROJECT_WAR_PT28_HELP">
+			<Text>只有[COLOR_POSITIVE_TEXT]首个[ENDCOLOR]完成此军事项目的文明可以获得强力的陆军游猎晋升线：
+                [NEWLINE][ICON_BULLET]所有轻骑兵和直升机单位获得晋升:[COLOR:138:138:138:255]轮番攻势[ENDCOLOR]，远程攻击时增加20%[ICON_STRENGTH]战斗力，在草原和平原作战时增加30%[ICON_STRENGTH]战斗力
+				[NEWLINE][ICON_BULLET]解锁一个后续晋升：[COLOR:138:138:138:255]截水断粮[ENDCOLOR]，[COLOR_NEGATIVE_TEXT]单位维护费[ENDCOLOR][ICON_GOLD]+3，攻击城市时+50%[ICON_STRENGTH]战斗力，造成伤害固定+3
+            </Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROJECT_WAR_PT28_PEDIA">
+			<Text>轻骑如雁阵掠过原野，铁翼遮天蔽日，以九连环进退之法撕开敌阵，恰似长生天降下第一道雷鸣。</Text>
+		</Row>
+        <Row Tag="TXT_KEY_Promotion_WAR_PT28">
+			<Text>[COLOR:138:138:138:255]轮番攻势[ENDCOLOR]</Text>
+		</Row>
+        <Row Tag="TXT_KEY_Promotion_WAR_PT28_HELP">
+			<Text>夹击加成增加50%，在草原和平原作战时增加30%[ICON_STRENGTH]战斗力</Text>
+		</Row>
+		<Row Tag="TXT_KEY_Promotion_WAR_PT28_1">
+			<Text>[COLOR:138:138:138:255]截水断粮[ENDCOLOR]</Text>
+		</Row>
+        <Row Tag="TXT_KEY_Promotion_WAR_PT28_1_HELP">
+			<Text>[COLOR_NEGATIVE_TEXT]单位维护费[ENDCOLOR][ICON_GOLD]+3，攻击城市时+50%[ICON_STRENGTH]战斗力，造成伤害固定+3</Text>
+		</Row>
+		<!-- 29 -->
+		<Row Tag="TXT_KEY_PROJECT_WAR_PT29">
+			<Text>[COLOR:138:138:138:255]次世代装甲研发[ENDCOLOR]</Text>
+		</Row>
+        <Row Tag="TXT_KEY_PROJECT_WAR_PT29_HELP">
+			<Text>只有[COLOR_POSITIVE_TEXT]首个[ENDCOLOR]完成此军事项目的文明可以获得强力的装甲单位晋升线：
+                [NEWLINE][ICON_BULLET]所有装甲单位获得晋升:[COLOR:138:138:138:255]迈纳斯反应装甲[ENDCOLOR]，受到伤害固定-3，对抗远程攻击时+100%[ICON_STRENGTH]战斗力，攻击城市不再失去所有移动力
+				[NEWLINE][ICON_BULLET]解锁一个后续晋升：[COLOR:138:138:138:255]铁血集群[ENDCOLOR]，[COLOR_NEGATIVE_TEXT]单位维护费[ENDCOLOR][ICON_GOLD]+9，攻击城市时+50%[ICON_STRENGTH]战斗力，多个拥有此晋升的单位互相靠近时攻城加成可叠加，上限500%
+            </Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROJECT_WAR_PT29_PEDIA">
+			<Text>熔铸西征铁骑的寒铁与涅槃之火的图腾，铸就不可摧的钢铁洪流。</Text>
+		</Row>
+        <Row Tag="TXT_KEY_Promotion_WAR_PT29">
+			<Text>[COLOR:138:138:138:255]迈纳斯反应装甲[ENDCOLOR]</Text>
+		</Row>
+        <Row Tag="TXT_KEY_Promotion_WAR_PT29_HELP">
+			<Text>受到伤害固定-3，对抗远程攻击时+100%[ICON_STRENGTH]战斗力，攻击城市不再失去所有移动力</Text>
+		</Row>
+		<Row Tag="TXT_KEY_Promotion_WAR_PT29_N">
+			<Text>[COLOR:138:138:138:255]铁血集群[ENDCOLOR]</Text>
+		</Row>
+        <Row Tag="TXT_KEY_Promotion_WAR_PT29_N_HELP">
+			<Text>[COLOR_NEGATIVE_TEXT]单位维护费[ENDCOLOR][ICON_GOLD]+9，攻击城市时+50%[ICON_STRENGTH]战斗力，多个拥有此晋升的单位互相靠近时攻城加成可叠加，上限500%</Text>
+		</Row>
+		<Row Tag="TXT_KEY_Promotion_WAR_PT29_1">
+			<Text>[COLOR:138:138:138:255]铁血集群(1)[ENDCOLOR]</Text>
+		</Row>
+        <Row Tag="TXT_KEY_Promotion_WAR_PT29_1_HELP">
+			<Text>攻击城市时+50%[ICON_STRENGTH]战斗力</Text>
+		</Row>
+		<Row Tag="TXT_KEY_Promotion_WAR_PT29_2">
+			<Text>[COLOR:138:138:138:255]铁血集群(2)[ENDCOLOR]</Text>
+		</Row>
+        <Row Tag="TXT_KEY_Promotion_WAR_PT29_2_HELP">
+			<Text>攻击城市时+50%[ICON_STRENGTH]战斗力</Text>
+		</Row>
+		<Row Tag="TXT_KEY_Promotion_WAR_PT29_3">
+			<Text>[COLOR:138:138:138:255]铁血集群(3)[ENDCOLOR]</Text>
+		</Row>
+        <Row Tag="TXT_KEY_Promotion_WAR_PT29_3_HELP">
+			<Text>攻击城市时+50%[ICON_STRENGTH]战斗力</Text>
+		</Row>
+		<Row Tag="TXT_KEY_Promotion_WAR_PT29_4">
+			<Text>[COLOR:138:138:138:255]铁血集群(4)[ENDCOLOR]</Text>
+		</Row>
+        <Row Tag="TXT_KEY_Promotion_WAR_PT29_4_HELP">
+			<Text>攻击城市时+50%[ICON_STRENGTH]战斗力</Text>
+		</Row>
+		<Row Tag="TXT_KEY_Promotion_WAR_PT29_5">
+			<Text>[COLOR:138:138:138:255]铁血集群(5)[ENDCOLOR]</Text>
+		</Row>
+        <Row Tag="TXT_KEY_Promotion_WAR_PT29_5_HELP">
+			<Text>攻击城市时+50%[ICON_STRENGTH]战斗力</Text>
+		</Row>
+		<Row Tag="TXT_KEY_Promotion_WAR_PT29_6">
+			<Text>[COLOR:138:138:138:255]铁血集群(6)[ENDCOLOR]</Text>
+		</Row>
+        <Row Tag="TXT_KEY_Promotion_WAR_PT29_6_HELP">
+			<Text>攻击城市时+50%[ICON_STRENGTH]战斗力</Text>
+		</Row>
+		<Row Tag="TXT_KEY_Promotion_WAR_PT29_7">
+			<Text>[COLOR:138:138:138:255]铁血集群(7)[ENDCOLOR]</Text>
+		</Row>
+        <Row Tag="TXT_KEY_Promotion_WAR_PT29_7_HELP">
+			<Text>攻击城市时+50%[ICON_STRENGTH]战斗力</Text>
+		</Row>
+		<Row Tag="TXT_KEY_Promotion_WAR_PT29_8">
+			<Text>[COLOR:138:138:138:255]铁血集群(8)[ENDCOLOR]</Text>
+		</Row>
+        <Row Tag="TXT_KEY_Promotion_WAR_PT29_8_HELP">
+			<Text>攻击城市时+50%[ICON_STRENGTH]战斗力</Text>
+		</Row>
+		<Row Tag="TXT_KEY_Promotion_WAR_PT29_9">
+			<Text>[COLOR:138:138:138:255]铁血集群(9)[ENDCOLOR]</Text>
+		</Row>
+        <Row Tag="TXT_KEY_Promotion_WAR_PT29_9_HELP">
+			<Text>攻击城市时+50%[ICON_STRENGTH]战斗力</Text>
+		</Row>
+		<Row Tag="TXT_KEY_Promotion_WAR_PT29_10">
+			<Text>[COLOR:138:138:138:255]铁血集群(10)[ENDCOLOR]</Text>
+		</Row>
+        <Row Tag="TXT_KEY_Promotion_WAR_PT29_10_HELP">
+			<Text>攻击城市时+50%[ICON_STRENGTH]战斗力</Text>
+		</Row>
+		<!-- 30 -->
+        <Row Tag="TXT_KEY_PROJECT_WAR_PT30">
+			<Text>[COLOR:138:138:138:255]血祭长生天[ENDCOLOR]</Text>
+		</Row>
+        <Row Tag="TXT_KEY_PROJECT_WAR_PT30_HELP">
+			<Text>只有[COLOR_POSITIVE_TEXT]首个[ENDCOLOR]完成此项目的文明可以将陆军灵魂献给长生天：所有正规陆军获得隐身和反隐，但是生命上限[ICON_HP_SP][COLOR_NEGATIVE_TEXT]降低15[ENDCOLOR]
+            </Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROJECT_WAR_PT30_PEDIA">
+			<Text>以九十九匹战马之魂编织隐形斗篷。鲜血献祭换得苍狼之眼，暗夜中猎杀者亦成猎物，唯留长生天见证勇者的最后冲锋。</Text>
+		</Row>
+        <Row Tag="TXT_KEY_Promotion_WAR_PT30">
+			<Text>[COLOR_NEGATIVE_TEXT]长生天注视着你[ENDCOLOR]</Text>
+		</Row>
+        <Row Tag="TXT_KEY_Promotion_WAR_PT30_HELP">
+			<Text>获得隐身和反隐，但是生命上限[ICON_HP_SP][COLOR_NEGATIVE_TEXT]降低15[ENDCOLOR]</Text>
+		</Row>
+		<!-- 31 -->
+        <Row Tag="TXT_KEY_PROJECT_WAR_PT31">
+			<Text>[COLOR:138:138:138:255]组织化管理[ENDCOLOR]</Text>
+		</Row>
+        <Row Tag="TXT_KEY_PROJECT_WAR_PT31_HELP">
+			<Text>只有[COLOR_POSITIVE_TEXT]首个[ENDCOLOR]完成此军事项目的文明可以获得特有军事晋升：所有军事单位获取经验速率+30%，生命上限[ICON_HP_SP]+10，[COLOR_NEGATIVE_TEXT]单位维护费[ENDCOLOR][ICON_GOLD]+1
+            </Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROJECT_WAR_PT31_PEDIA">
+			<Text>新兵如流星划过训练场，老将似恒星恒久闪耀，整个军团化作璀璨银河，指挥棒轻摇便能牵引星河逆转。</Text>
+		</Row>
+        <Row Tag="TXT_KEY_Promotion_WAR_PT31">
+			<Text>[COLOR:138:138:138:255]组织化管理[ENDCOLOR]</Text>
+		</Row>
+        <Row Tag="TXT_KEY_Promotion_WAR_PT31_HELP">
+			<Text>获取经验速率+30%，生命上限[ICON_HP_SP]+10，[COLOR_NEGATIVE_TEXT]单位维护费[ENDCOLOR][ICON_GOLD]+1</Text>
+		</Row>
+		<!-- 32 -->
+        <Row Tag="TXT_KEY_PROJECT_WAR_PT32">
+			<Text>[COLOR:138:138:138:255]标准化道路[ENDCOLOR]</Text>
+		</Row>
+        <Row Tag="TXT_KEY_PROJECT_WAR_PT32_HELP">
+			<Text>只有[COLOR_POSITIVE_TEXT]首个[ENDCOLOR]完成此军事项目的文明可以获得强力陆军加成：允许所有陆军使用敌方道路
+            </Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROJECT_WAR_PT32_PEDIA">
+			<Text>铺就贯通欧亚的黄金驿道，无论敌我疆界皆化作坦途。</Text>
+		</Row>
+        <Row Tag="TXT_KEY_Promotion_WAR_PT32">
+			<Text>[COLOR:138:138:138:255]车同辙[ENDCOLOR]</Text>
+		</Row>
+        <Row Tag="TXT_KEY_Promotion_WAR_PT32_HELP">
+			<Text>允许使用敌方道路</Text>
+		</Row>
+		<!-- 33 -->
+        <Row Tag="TXT_KEY_PROJECT_WAR_PT33">
+			<Text>[COLOR:138:138:138:255]战时指挥所[ENDCOLOR]</Text>
+		</Row>
+        <Row Tag="TXT_KEY_PROJECT_WAR_PT33_HELP">
+			<Text>只有[COLOR_POSITIVE_TEXT]首个[ENDCOLOR]完成此军事项目的文明可以获得强力的统帅晋升：
+                [NEWLINE][ICON_BULLET]所有陆军统帅、海军统帅将为邻近一环的单位提供额外25%远程攻击加成和3固伤加成同时自身移动无视地形消耗
+            </Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROJECT_WAR_PT33_PEDIA">
+			<Text>九层白塔矗立云端，仿效成吉思汗的金帐决策。塔内星辰运转如命运纺车，邻近将士皆得天光庇护，箭雨坠地前已化作漫天星屑，此乃智慧与信仰构筑的永生堡垒。</Text>
+		</Row>
+        <Row Tag="TXT_KEY_Promotion_WAR_PT33">
+			<Text>[COLOR:138:138:138:255]战时指挥所[ENDCOLOR]</Text>
+		</Row>
+        <Row Tag="TXT_KEY_Promotion_WAR_PT33_HELP">
+			<Text>自身移动无视地形消耗，为邻近一环的单位提供额外50%远程攻击加成和3固伤加成</Text>
+		</Row>
+        <Row Tag="TXT_KEY_Promotion_WAR_PT33_1">
+			<Text>[COLOR:0:204:0:255]统帅引导[ENDCOLOR]</Text>
+		</Row>
+        <Row Tag="TXT_KEY_Promotion_WAR_PT33_1_HELP">
+			<Text>位于[COLOR:0:204:0:255]战时指挥所[ENDCOLOR]附近，远程攻击时+50%[ICON_STRENGTH]战斗力，造成伤害固定+3
+            </Text>
+		</Row>
+	<!-- 34 -->
+        <Row Tag="TXT_KEY_PROJECT_WAR_PT34">
+			<Text>[COLOR:138:138:138:255]后勤保障部队[ENDCOLOR]</Text>
+		</Row>
+        <Row Tag="TXT_KEY_PROJECT_WAR_PT34_HELP">
+			<Text>只有[COLOR_POSITIVE_TEXT]首个[ENDCOLOR]完成此军事项目的文明可以获得强力的民兵晋升：
+                [NEWLINE][ICON_BULLET]所有民兵单位获得晋升：[COLOR:0:204:0:255]后勤保障部队[ENDCOLOR]，+4[ICON_MOVES]移动力，可以为邻近两环的友军单位提供50%防御加成
+            </Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROJECT_WAR_PT34_PEDIA">
+			<Text>民兵背负的不仅是弹药，更是游牧民族千年传承的生存意志，沙暴中亦可掘井取水，绝境里自会逢生。</Text>
+		</Row>
+        <Row Tag="TXT_KEY_Promotion_WAR_PT34">
+			<Text>[COLOR:0:204:0:255]后勤保障部队[ENDCOLOR]</Text>
+		</Row>
+        <Row Tag="TXT_KEY_Promotion_WAR_PT34_HELP">
+			<Text>+4[ICON_MOVES]移动力，为邻近两环的友军单位提供50%防御加成</Text>
+		</Row>
+        <Row Tag="TXT_KEY_Promotion_WAR_PT34_1">
+			<Text>[COLOR:0:204:0:255]补给充足[ENDCOLOR]</Text>
+		</Row>
+        <Row Tag="TXT_KEY_Promotion_WAR_PT34_1_HELP">
+			<Text>位于[COLOR:0:204:0:255]后勤保障部队[ENDCOLOR]附近，防御时+50%[ICON_STRENGTH]战斗力
+            </Text>
+		</Row>
+		<!-- 35 -->
+        <Row Tag="TXT_KEY_PROJECT_WAR_PT35">
+			<Text>[COLOR:138:138:138:255]战时联络系统[ENDCOLOR]</Text>
+		</Row>
+        <Row Tag="TXT_KEY_PROJECT_WAR_PT35_HELP">
+			<Text>只有[COLOR_POSITIVE_TEXT]首个[ENDCOLOR]完成此军事项目的文明可以获得特有军事晋升：所有军事单位视野范围+2
+            </Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROJECT_WAR_PT35_PEDIA">
+			<Text>借大漠孤烟直的天象之道，编织无形的信息经纬。斥候的烟棒与卫星的微光共鸣，千里外的战鼓声可借电磁风暴传遍四方，此乃超越言语的战争语言。</Text>
+		</Row>
+        <Row Tag="TXT_KEY_Promotion_WAR_PT35">
+			<Text>[COLOR:138:138:138:255]战时联络系统[ENDCOLOR]</Text>
+		</Row>
+        <Row Tag="TXT_KEY_Promotion_WAR_PT35_HELP">
+			<Text>视野范围+2</Text>
+		</Row>
+		<!-- 36 -->
+         <Row Tag="TXT_KEY_PROJECT_WAR_PT36">
+			<Text>[COLOR:138:138:138:255]军用抗生素[ENDCOLOR]</Text>
+		</Row>
+        <Row Tag="TXT_KEY_PROJECT_WAR_PT36_HELP">
+			<Text>只有[COLOR_POSITIVE_TEXT]首个[ENDCOLOR]完成此军事项目的文明可以获得强力的陆军游猎战晋升线：
+                [NEWLINE][ICON_BULLET]所有陆军单位回复量+15
+                [NEWLINE][ICON_BULLET]陆军游猎单位解锁一个后续晋升:[COLOR:138:138:138:255]生化武器[ENDCOLOR]，[COLOR_NEGATIVE_TEXT]单位维护费[ENDCOLOR][ICON_GOLD]+7，造成伤害固定+5，攻击受伤单位+100%[ICON_STRENGTH]战斗力
+            </Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROJECT_WAR_PT36_PEDIA">
+			<Text>犹如母亲用乳汁洗涤玷污大地的污秽。</Text>
+		</Row>
+        <Row Tag="TXT_KEY_Promotion_WAR_PT36">
+			<Text>[COLOR:138:138:138:255]军用抗生素[ENDCOLOR]</Text>
+		</Row>
+        <Row Tag="TXT_KEY_Promotion_WAR_PT36_HELP">
+			<Text>回复量+15</Text>
+		</Row>
+        <Row Tag="TXT_KEY_Promotion_WAR_PT36_1">
+			<Text>[COLOR:138:138:138:255]生化武器[ENDCOLOR]</Text>
+		</Row>
+        <Row Tag="TXT_KEY_Promotion_WAR_PT36_1_HELP">
+			<Text>[COLOR_NEGATIVE_TEXT]单位维护费[ENDCOLOR][ICON_GOLD]+7，造成伤害固定+5，攻击受伤单位+100%[ICON_STRENGTH]战斗力</Text>
+		</Row>
+		<!-- 37 -->
+        <Row Tag="TXT_KEY_PROJECT_WAR_PT37">
+			<Text>[COLOR:138:138:138:255]弹道修正系统[ENDCOLOR]</Text>
+		</Row>
+        <Row Tag="TXT_KEY_PROJECT_WAR_PT37_HELP">
+			<Text>只有[COLOR_POSITIVE_TEXT]首个[ENDCOLOR]完成此军事项目的文明可以获得强力的远程晋升线：
+                [NEWLINE][ICON_BULLET]陆军远程、潜艇和海军远程单位获得晋升:[COLOR:138:138:138:255]弹道修正[ENDCOLOR]，+2[ICON_RANGE_STRENGTH]射程，远程攻击时+25%[ICON_STRENGTH]战斗力
+                [NEWLINE][ICON_BULLET]弓兵系解锁一个后续晋升:[COLOR:138:138:138:255]精准防空弹道[ENDCOLOR]，[COLOR_NEGATIVE_TEXT]单位维护费[ENDCOLOR][ICON_GOLD]+8，拦截时+200%[ICON_STRENGTH]战斗力，+2拦截范围，+1拦截次数，被游猎时受到伤害降低80%
+            </Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROJECT_WAR_PT37_PEDIA">
+			<Text>箭矢自行寻找命星，防空网化作捕风者之网，天穹之下再无逃逸的猎物。</Text>
+		</Row>
+        <Row Tag="TXT_KEY_Promotion_WAR_PT37">
+			<Text>[COLOR:138:138:138:255]弹道修正[ENDCOLOR]</Text>
+		</Row>
+        <Row Tag="TXT_KEY_Promotion_WAR_PT37_HELP">
+			<Text>+2[ICON_RANGE_STRENGTH]射程，远程攻击时+25%[ICON_STRENGTH]战斗力</Text>
+		</Row>
+        <Row Tag="TXT_KEY_Promotion_WAR_PT37_1">
+			<Text>[COLOR:138:138:138:255]精准防空弹道[ENDCOLOR]</Text>
+		</Row>
+        <Row Tag="TXT_KEY_Promotion_WAR_PT37_1_HELP">
+			<Text>[COLOR_NEGATIVE_TEXT]单位维护费[ENDCOLOR][ICON_GOLD]+8，拦截时+200%[ICON_STRENGTH]战斗力，+2拦截范围，+1拦截次数，被游猎时受到伤害降低80%</Text>
+		</Row>
+		<!-- 38 -->
+		<Row Tag="TXT_KEY_PROJECT_WAR_PT38">
+			<Text>[COLOR:138:138:138:255]空天战机[ENDCOLOR]</Text>
+		</Row>
+        <Row Tag="TXT_KEY_PROJECT_WAR_PT38_HELP">
+			<Text>只有[COLOR_POSITIVE_TEXT]首个[ENDCOLOR]完成此军事项目的文明可以获得极其强力的空军晋升：
+				[NEWLINE][ICON_BULLET]所有舰载机和空优战机获得晋升：[COLOR:138:138:138:255]空天战机[ENDCOLOR]，[COLOR_NEGATIVE_TEXT]单位维护费[ENDCOLOR][ICON_GOLD]+10，拦截和游猎时受到伤害降低90%，拦截和游猎时+300%[ICON_STRENGTH]战斗力，每回合拦截、游猎和攻击次数+3，进攻时+200%[ICON_STRENGTH]战斗力
+            </Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROJECT_WAR_PT38_PEDIA">
+			<Text>游猎之时化作陨石雨，突击之际若神罚降世，此乃神明对凡俗武器的最终馈赠。</Text>
+		</Row>
+        <Row Tag="TXT_KEY_Promotion_WAR_PT38">
+			<Text>[COLOR:138:138:138:255]空天战机[ENDCOLOR]</Text>
+		</Row>
+        <Row Tag="TXT_KEY_Promotion_WAR_PT38_HELP">
+			<Text>[COLOR_NEGATIVE_TEXT]单位维护费[ENDCOLOR][ICON_GOLD]+10，拦截和游猎时受到伤害降低90%，拦截和游猎时+300%[ICON_STRENGTH]战斗力，每回合拦截、游猎和攻击次数+3，进攻时+200%[ICON_STRENGTH]战斗力</Text>
 		</Row>
 	</Language_en_US>
 </GameData>

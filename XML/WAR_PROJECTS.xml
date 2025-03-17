@@ -5,8 +5,8 @@
 			<Type>Promotion_WAR_PT1</Type>
 			<Description>TXT_KEY_Promotion_WAR_PT1</Description>
 			<Help>TXT_KEY_Promotion_WAR_PT1_HELP</Help>
-			<IconAtlas>PROMOTION_ATLAS</IconAtlas>
-			<PortraitIndex>37</PortraitIndex>
+			<IconAtlas>WPT_ICON</IconAtlas>
+			<PortraitIndex>0</PortraitIndex>
 			<PediaType>PEDIA_ATTRIBUTES</PediaType>
 			<PediaEntry>TXT_KEY_Promotion_WAR_PT1</PediaEntry>
 			<CannotBeChosen>true</CannotBeChosen>
@@ -18,8 +18,8 @@
 			<Type>Promotion_WAR_PT1_1</Type>
 			<Description>TXT_KEY_Promotion_WAR_PT1_1</Description>
 			<Help>TXT_KEY_Promotion_WAR_PT1_1_HELP</Help>
-			<IconAtlas>PROMOTION_ATLAS</IconAtlas>
-			<PortraitIndex>37</PortraitIndex>
+			<IconAtlas>WPT_ICON</IconAtlas>
+			<PortraitIndex>1</PortraitIndex>
 			<PediaType>PEDIA_ATTRIBUTES</PediaType>
 			<PediaEntry>TXT_KEY_Promotion_WAR_PT1_1</PediaEntry>
 			<MilitaryMightMod>1</MilitaryMightMod>
@@ -28,13 +28,14 @@
 			<CityAttack>50</CityAttack>
 			<RangedDefenseMod>50</RangedDefenseMod>
 			<PromotionPrereq>Promotion_WAR_PT1</PromotionPrereq>
+			<OrderPriority>1</OrderPriority>
 		</Row>
 		<Row>
 			<Type>Promotion_WAR_PT2</Type>
 			<Description>TXT_KEY_Promotion_WAR_PT2</Description>
 			<Help>TXT_KEY_Promotion_WAR_PT2_HELP</Help>
-			<IconAtlas>PROMOTION_ATLAS</IconAtlas>
-			<PortraitIndex>37</PortraitIndex>
+			<IconAtlas>WPT_ICON</IconAtlas>
+			<PortraitIndex>2</PortraitIndex>
 			<PediaType>PEDIA_ATTRIBUTES</PediaType>
 			<PediaEntry>TXT_KEY_Promotion_WAR_PT2</PediaEntry>
 			<CannotBeChosen>true</CannotBeChosen>
@@ -46,8 +47,8 @@
 			<Type>Promotion_WAR_PT2_1</Type>
 			<Description>TXT_KEY_Promotion_WAR_PT2_1</Description>
 			<Help>TXT_KEY_Promotion_WAR_PT2_1_HELP</Help>
-			<IconAtlas>PROMOTION_ATLAS</IconAtlas>
-			<PortraitIndex>37</PortraitIndex>
+			<IconAtlas>WPT_ICON</IconAtlas>
+			<PortraitIndex>3</PortraitIndex>
 			<PediaType>PEDIA_ATTRIBUTES</PediaType>
 			<PediaEntry>TXT_KEY_Promotion_WAR_PT2_1</PediaEntry>
 			<MilitaryMightMod>1</MilitaryMightMod>
@@ -56,13 +57,14 @@
 			<RangeChange>1</RangeChange>
 			<AttackWoundedMod>50</AttackWoundedMod>
 			<PromotionPrereq>Promotion_WAR_PT2</PromotionPrereq>
+			<OrderPriority>1</OrderPriority>
 		</Row>
 		<Row>
 			<Type>Promotion_WAR_PT3</Type>
 			<Description>TXT_KEY_Promotion_WAR_PT3</Description>
 			<Help>TXT_KEY_Promotion_WAR_PT3_HELP</Help>
-			<IconAtlas>PROMOTION_ATLAS</IconAtlas>
-			<PortraitIndex>37</PortraitIndex>
+			<IconAtlas>WPT_ICON</IconAtlas>
+			<PortraitIndex>4</PortraitIndex>
 			<PediaType>PEDIA_ATTRIBUTES</PediaType>
 			<PediaEntry>TXT_KEY_Promotion_WAR_PT3</PediaEntry>
 			<CannotBeChosen>true</CannotBeChosen>
@@ -74,8 +76,9 @@
 			<Type>Promotion_WAR_PT3_1</Type>
 			<Description>TXT_KEY_Promotion_WAR_PT3_1</Description>
 			<Help>TXT_KEY_Promotion_WAR_PT3_1_HELP</Help>
-			<IconAtlas>PROMOTION_ATLAS</IconAtlas>
-			<PortraitIndex>37</PortraitIndex>
+			<IconAtlas>WPT_ICON</IconAtlas>
+			<PortraitIndex>5</PortraitIndex>
+			<OrderPriority>1</OrderPriority>
 			<PediaType>PEDIA_ATTRIBUTES</PediaType>
 			<PediaEntry>TXT_KEY_Promotion_WAR_PT3_1</PediaEntry>
 			<MilitaryMightMod>1</MilitaryMightMod>
@@ -89,8 +92,8 @@
 			<Type>Promotion_WAR_PT3_2</Type>
 			<Description>TXT_KEY_Promotion_WAR_PT3_2</Description>
 			<Help>TXT_KEY_Promotion_WAR_PT3_2_HELP</Help>
-			<IconAtlas>PROMOTION_ATLAS</IconAtlas>
-			<PortraitIndex>37</PortraitIndex>
+			<IconAtlas>WPT_ICON</IconAtlas>
+			<PortraitIndex>6</PortraitIndex>
 			<PediaType>PEDIA_ATTRIBUTES</PediaType>
 			<PediaEntry>TXT_KEY_Promotion_WAR_PT3_2</PediaEntry>
 			<CannotBeChosen>true</CannotBeChosen>
@@ -100,8 +103,8 @@
 			<Type>Promotion_WAR_PT4</Type>
 			<Description>TXT_KEY_Promotion_WAR_PT4</Description>
 			<Help>TXT_KEY_Promotion_WAR_PT4_HELP</Help>
-			<IconAtlas>PROMOTION_ATLAS</IconAtlas>
-			<PortraitIndex>37</PortraitIndex>
+			<IconAtlas>WPT_ICON</IconAtlas>
+			<PortraitIndex>7</PortraitIndex>
 			<PediaType>PEDIA_ATTRIBUTES</PediaType>
 			<PediaEntry>TXT_KEY_Promotion_WAR_PT4</PediaEntry>
 			<CannotBeChosen>true</CannotBeChosen>
@@ -115,10 +118,11 @@
 			<Type>Promotion_WAR_PT4_1</Type>
 			<Description>TXT_KEY_Promotion_WAR_PT4_1</Description>
 			<Help>TXT_KEY_Promotion_WAR_PT4_1_HELP</Help>
-			<IconAtlas>PROMOTION_ATLAS</IconAtlas>
-			<PortraitIndex>37</PortraitIndex>
+			<IconAtlas>WPT_ICON</IconAtlas>
+			<PortraitIndex>8</PortraitIndex>
 			<PediaType>PEDIA_ATTRIBUTES</PediaType>
 			<PediaEntry>TXT_KEY_Promotion_WAR_PT4_1</PediaEntry>
+			<OrderPriority>1</OrderPriority>
 			<MilitaryMightMod>1</MilitaryMightMod>
 			<MaintenanceCost>3</MaintenanceCost>
 			<MovesChange>1</MovesChange>
@@ -132,8 +136,8 @@
 			<Type>Promotion_WAR_PT5</Type>
 			<Description>TXT_KEY_Promotion_WAR_PT5</Description>
 			<Help>TXT_KEY_Promotion_WAR_PT5_HELP</Help>
-			<IconAtlas>PROMOTION_ATLAS</IconAtlas>
-			<PortraitIndex>37</PortraitIndex>
+			<IconAtlas>WPT_ICON</IconAtlas>
+			<PortraitIndex>9</PortraitIndex>
 			<PediaType>PEDIA_ATTRIBUTES</PediaType>
 			<PediaEntry>TXT_KEY_Promotion_WAR_PT5</PediaEntry>
 			<CannotBeChosen>true</CannotBeChosen>
@@ -145,9 +149,10 @@
 			<Type>Promotion_WAR_PT5_1</Type>
 			<Description>TXT_KEY_Promotion_WAR_PT5_1</Description>
 			<Help>TXT_KEY_Promotion_WAR_PT5_1_HELP</Help>
-			<IconAtlas>PROMOTION_ATLAS</IconAtlas>
-			<PortraitIndex>37</PortraitIndex>
+			<IconAtlas>WPT_ICON</IconAtlas>
+			<PortraitIndex>10</PortraitIndex>
 			<PediaType>PEDIA_ATTRIBUTES</PediaType>
+			<OrderPriority>1</OrderPriority>
 			<PediaEntry>TXT_KEY_Promotion_WAR_PT5_1</PediaEntry>
 			<MilitaryMightMod>1</MilitaryMightMod>
 			<MaintenanceCost>3</MaintenanceCost>
@@ -160,8 +165,8 @@
 			<Type>Promotion_WAR_PT6</Type>
 			<Description>TXT_KEY_Promotion_WAR_PT6</Description>
 			<Help>TXT_KEY_Promotion_WAR_PT6_HELP</Help>
-			<IconAtlas>PROMOTION_ATLAS</IconAtlas>
-			<PortraitIndex>37</PortraitIndex>
+			<IconAtlas>WPT_ICON</IconAtlas>
+			<PortraitIndex>11</PortraitIndex>
 			<PediaType>PEDIA_ATTRIBUTES</PediaType>
 			<PediaEntry>TXT_KEY_Promotion_WAR_PT6</PediaEntry>
 			<CannotBeChosen>true</CannotBeChosen>
@@ -173,8 +178,9 @@
 			<Type>Promotion_WAR_PT6_1</Type>
 			<Description>TXT_KEY_Promotion_WAR_PT6_1</Description>
 			<Help>TXT_KEY_Promotion_WAR_PT6_1_HELP</Help>
-			<IconAtlas>PROMOTION_ATLAS</IconAtlas>
-			<PortraitIndex>37</PortraitIndex>
+			<IconAtlas>WPT_ICON</IconAtlas>
+			<PortraitIndex>12</PortraitIndex>
+			<OrderPriority>1</OrderPriority>
 			<PediaType>PEDIA_ATTRIBUTES</PediaType>
 			<PediaEntry>TXT_KEY_Promotion_WAR_PT6_1</PediaEntry>
 			<MilitaryMightMod>1</MilitaryMightMod>
@@ -187,8 +193,8 @@
 			<Type>Promotion_WAR_PT7</Type>
 			<Description>TXT_KEY_Promotion_WAR_PT7</Description>
 			<Help>TXT_KEY_Promotion_WAR_PT7_HELP</Help>
-			<IconAtlas>PROMOTION_ATLAS</IconAtlas>
-			<PortraitIndex>37</PortraitIndex>
+			<IconAtlas>WPT_ICON</IconAtlas>
+			<PortraitIndex>13</PortraitIndex>
 			<PediaType>PEDIA_ATTRIBUTES</PediaType>
 			<PediaEntry>TXT_KEY_Promotion_WAR_PT7</PediaEntry>
 			<CannotBeChosen>true</CannotBeChosen>
@@ -201,9 +207,10 @@
 			<Type>Promotion_WAR_PT7_1</Type>
 			<Description>TXT_KEY_Promotion_WAR_PT7_1</Description>
 			<Help>TXT_KEY_Promotion_WAR_PT7_1_HELP</Help>
-			<IconAtlas>PROMOTION_ATLAS</IconAtlas>
-			<PortraitIndex>37</PortraitIndex>
+			<IconAtlas>WPT_ICON</IconAtlas>
+			<PortraitIndex>14</PortraitIndex>
 			<PediaType>PEDIA_ATTRIBUTES</PediaType>
+			<OrderPriority>1</OrderPriority>
 			<PediaEntry>TXT_KEY_Promotion_WAR_PT7_1</PediaEntry>
 			<MilitaryMightMod>1</MilitaryMightMod>
 			<MaintenanceCost>3</MaintenanceCost>
@@ -216,8 +223,8 @@
 			<Type>Promotion_WAR_PT8</Type>
 			<Description>TXT_KEY_Promotion_WAR_PT8</Description>
 			<Help>TXT_KEY_Promotion_WAR_PT8_HELP</Help>
-			<IconAtlas>PROMOTION_ATLAS</IconAtlas>
-			<PortraitIndex>37</PortraitIndex>
+			<IconAtlas>WPT_ICON</IconAtlas>
+			<PortraitIndex>15</PortraitIndex>
 			<PediaType>PEDIA_ATTRIBUTES</PediaType>
 			<PediaEntry>TXT_KEY_Promotion_WAR_PT8</PediaEntry>
 			<CannotBeChosen>true</CannotBeChosen>
@@ -230,8 +237,9 @@
 			<Type>Promotion_WAR_PT8_1</Type>
 			<Description>TXT_KEY_Promotion_WAR_PT8_1</Description>
 			<Help>TXT_KEY_Promotion_WAR_PT8_1_HELP</Help>
-			<IconAtlas>PROMOTION_ATLAS</IconAtlas>
-			<PortraitIndex>37</PortraitIndex>
+			<IconAtlas>WPT_ICON</IconAtlas>
+			<PortraitIndex>16</PortraitIndex>
+			<OrderPriority>1</OrderPriority>
 			<PediaType>PEDIA_ATTRIBUTES</PediaType>
 			<PediaEntry>TXT_KEY_Promotion_WAR_PT8_1</PediaEntry>
 			<MilitaryMightMod>1</MilitaryMightMod>
@@ -244,8 +252,8 @@
 			<Type>Promotion_WAR_PT9</Type>
 			<Description>TXT_KEY_Promotion_WAR_PT9</Description>
 			<Help>TXT_KEY_Promotion_WAR_PT9_HELP</Help>
-			<IconAtlas>PROMOTION_ATLAS</IconAtlas>
-			<PortraitIndex>37</PortraitIndex>
+			<IconAtlas>WPT_ICON</IconAtlas>
+			<PortraitIndex>17</PortraitIndex>
 			<PediaType>PEDIA_ATTRIBUTES</PediaType>
 			<PediaEntry>TXT_KEY_Promotion_WAR_PT9</PediaEntry>
 			<CannotBeChosen>true</CannotBeChosen>
@@ -257,8 +265,9 @@
 			<Type>Promotion_WAR_PT9_1</Type>
 			<Description>TXT_KEY_Promotion_WAR_PT9_1</Description>
 			<Help>TXT_KEY_Promotion_WAR_PT9_1_HELP</Help>
-			<IconAtlas>PROMOTION_ATLAS</IconAtlas>
-			<PortraitIndex>37</PortraitIndex>
+			<IconAtlas>WPT_ICON</IconAtlas>
+			<PortraitIndex>18</PortraitIndex>
+			<OrderPriority>1</OrderPriority>
 			<PediaType>PEDIA_ATTRIBUTES</PediaType>
 			<PediaEntry>TXT_KEY_Promotion_WAR_PT9_1</PediaEntry>
 			<MilitaryMightMod>1</MilitaryMightMod>
@@ -272,9 +281,10 @@
 			<Type>Promotion_WAR_PT9_2</Type>
 			<Description>TXT_KEY_Promotion_WAR_PT9_2</Description>
 			<Help>TXT_KEY_Promotion_WAR_PT9_2_HELP</Help>
-			<IconAtlas>PROMOTION_ATLAS</IconAtlas>
-			<PortraitIndex>37</PortraitIndex>
+			<IconAtlas>WPT_ICON</IconAtlas>
+			<PortraitIndex>19</PortraitIndex>
 			<PediaType>PEDIA_ATTRIBUTES</PediaType>
+			<OrderPriority>1</OrderPriority>
 			<PediaEntry>TXT_KEY_Promotion_WAR_PT9_2</PediaEntry>
 			<MilitaryMightMod>1</MilitaryMightMod>
 			<MaintenanceCost>8</MaintenanceCost>
@@ -287,8 +297,9 @@
 			<Type>Promotion_WAR_PT9_3</Type>
 			<Description>TXT_KEY_Promotion_WAR_PT9_3</Description>
 			<Help>TXT_KEY_Promotion_WAR_PT9_3_HELP</Help>
-			<IconAtlas>PROMOTION_ATLAS</IconAtlas>
-			<PortraitIndex>37</PortraitIndex>
+			<IconAtlas>WPT_ICON</IconAtlas>
+			<PortraitIndex>20</PortraitIndex>
+			<OrderPriority>1</OrderPriority>
 			<PediaType>PEDIA_ATTRIBUTES</PediaType>
 			<PediaEntry>TXT_KEY_Promotion_WAR_PT9_3</PediaEntry>
 			<MilitaryMightMod>1</MilitaryMightMod>
@@ -302,8 +313,9 @@
 			<Type>Promotion_WAR_PT9_4</Type>
 			<Description>TXT_KEY_Promotion_WAR_PT9_4</Description>
 			<Help>TXT_KEY_Promotion_WAR_PT9_4_HELP</Help>
-			<IconAtlas>PROMOTION_ATLAS</IconAtlas>
-			<PortraitIndex>37</PortraitIndex>
+			<IconAtlas>WPT_ICON</IconAtlas>
+			<PortraitIndex>21</PortraitIndex>
+			<OrderPriority>1</OrderPriority>
 			<PediaType>PEDIA_ATTRIBUTES</PediaType>
 			<PediaEntry>TXT_KEY_Promotion_WAR_PT9_4</PediaEntry>
 			<MilitaryMightMod>1</MilitaryMightMod>
@@ -316,8 +328,8 @@
 			<Type>Promotion_WAR_PT10</Type>
 			<Description>TXT_KEY_Promotion_WAR_PT10</Description>
 			<Help>TXT_KEY_Promotion_WAR_PT10_HELP</Help>
-			<IconAtlas>PROMOTION_ATLAS</IconAtlas>
-			<PortraitIndex>37</PortraitIndex>
+			<IconAtlas>WPT_ICON</IconAtlas>
+			<PortraitIndex>22</PortraitIndex>
 			<PediaType>PEDIA_ATTRIBUTES</PediaType>
 			<PediaEntry>TXT_KEY_Promotion_WAR_PT10</PediaEntry>
 			<CannotBeChosen>true</CannotBeChosen>
@@ -328,8 +340,9 @@
 			<Type>Promotion_WAR_PT10_1</Type>
 			<Description>TXT_KEY_Promotion_WAR_PT10_1</Description>
 			<Help>TXT_KEY_Promotion_WAR_PT10_1_HELP</Help>
-			<IconAtlas>PROMOTION_ATLAS</IconAtlas>
-			<PortraitIndex>37</PortraitIndex>
+			<IconAtlas>WPT_ICON</IconAtlas>
+			<PortraitIndex>23</PortraitIndex>
+			<OrderPriority>1</OrderPriority>
 			<PediaType>PEDIA_ATTRIBUTES</PediaType>
 			<PediaEntry>TXT_KEY_Promotion_WAR_PT10_1</PediaEntry>
 			<MilitaryMightMod>1</MilitaryMightMod>
@@ -342,8 +355,8 @@
 			<Type>Promotion_WAR_PT11</Type>
 			<Description>TXT_KEY_Promotion_WAR_PT11</Description>
 			<Help>TXT_KEY_Promotion_WAR_PT11_HELP</Help>
-			<IconAtlas>PROMOTION_ATLAS</IconAtlas>
-			<PortraitIndex>37</PortraitIndex>
+			<IconAtlas>WPT_ICON</IconAtlas>
+			<PortraitIndex>24</PortraitIndex>
 			<PediaType>PEDIA_ATTRIBUTES</PediaType>
 			<PediaEntry>TXT_KEY_Promotion_WAR_PT11</PediaEntry>
 			<CannotBeChosen>true</CannotBeChosen>
@@ -355,9 +368,10 @@
 			<Type>Promotion_WAR_PT11_1</Type>
 			<Description>TXT_KEY_Promotion_WAR_PT11_1</Description>
 			<Help>TXT_KEY_Promotion_WAR_PT11_1_HELP</Help>
-			<IconAtlas>PROMOTION_ATLAS</IconAtlas>
-			<PortraitIndex>37</PortraitIndex>
+			<IconAtlas>WPT_ICON</IconAtlas>
+			<PortraitIndex>25</PortraitIndex>
 			<PediaType>PEDIA_ATTRIBUTES</PediaType>
+			<OrderPriority>1</OrderPriority>
 			<PediaEntry>TXT_KEY_Promotion_WAR_PT11_1</PediaEntry>
 			<MilitaryMightMod>1</MilitaryMightMod>
 			<MaintenanceCost>5</MaintenanceCost>
@@ -370,8 +384,8 @@
 			<Type>Promotion_WAR_PT12</Type>
 			<Description>TXT_KEY_Promotion_WAR_PT12</Description>
 			<Help>TXT_KEY_Promotion_WAR_PT12_HELP</Help>
-			<IconAtlas>PROMOTION_ATLAS</IconAtlas>
-			<PortraitIndex>37</PortraitIndex>
+			<IconAtlas>WPT_ICON</IconAtlas>
+			<PortraitIndex>26</PortraitIndex>
 			<PediaType>PEDIA_ATTRIBUTES</PediaType>
 			<PediaEntry>TXT_KEY_Promotion_WAR_PT12</PediaEntry>
 			<CannotBeChosen>true</CannotBeChosen>
@@ -383,8 +397,9 @@
 			<Type>Promotion_WAR_PT12_1</Type>
 			<Description>TXT_KEY_Promotion_WAR_PT12_1</Description>
 			<Help>TXT_KEY_Promotion_WAR_PT12_1_HELP</Help>
-			<IconAtlas>PROMOTION_ATLAS</IconAtlas>
-			<PortraitIndex>37</PortraitIndex>
+			<IconAtlas>WPT_ICON</IconAtlas>
+			<PortraitIndex>27</PortraitIndex>
+			<OrderPriority>1</OrderPriority>
 			<PediaType>PEDIA_ATTRIBUTES</PediaType>
 			<PediaEntry>TXT_KEY_Promotion_WAR_PT12_1</PediaEntry>
 			<MilitaryMightMod>1</MilitaryMightMod>
@@ -397,8 +412,8 @@
 			<Type>Promotion_WAR_PT13</Type>
 			<Description>TXT_KEY_Promotion_WAR_PT13</Description>
 			<Help>TXT_KEY_Promotion_WAR_PT13_HELP</Help>
-			<IconAtlas>PROMOTION_ATLAS</IconAtlas>
-			<PortraitIndex>37</PortraitIndex>
+			<IconAtlas>WPT_ICON</IconAtlas>
+			<PortraitIndex>28</PortraitIndex>
 			<PediaType>PEDIA_ATTRIBUTES</PediaType>
 			<PediaEntry>TXT_KEY_Promotion_WAR_PT13</PediaEntry>
 			<CannotBeChosen>true</CannotBeChosen>
@@ -408,8 +423,9 @@
 			<Type>Promotion_WAR_PT13_1</Type>
 			<Description>TXT_KEY_Promotion_WAR_PT13_1</Description>
 			<Help>TXT_KEY_Promotion_WAR_PT13_1_HELP</Help>
-			<IconAtlas>PROMOTION_ATLAS</IconAtlas>
-			<PortraitIndex>37</PortraitIndex>
+			<IconAtlas>WPT_ICON</IconAtlas>
+			<PortraitIndex>29</PortraitIndex>
+			<OrderPriority>1</OrderPriority>
 			<PediaType>PEDIA_ATTRIBUTES</PediaType>
 			<PediaEntry>TXT_KEY_Promotion_WAR_PT13_1</PediaEntry>
 			<MilitaryMightMod>1</MilitaryMightMod>
@@ -424,8 +440,8 @@
 			<Type>Promotion_WAR_PT14</Type>
 			<Description>TXT_KEY_Promotion_WAR_PT14</Description>
 			<Help>TXT_KEY_Promotion_WAR_PT14_HELP</Help>
-			<IconAtlas>PROMOTION_ATLAS</IconAtlas>
-			<PortraitIndex>37</PortraitIndex>
+			<IconAtlas>WPT_ICON</IconAtlas>
+			<PortraitIndex>30</PortraitIndex>
 			<PediaType>PEDIA_ATTRIBUTES</PediaType>
 			<PediaEntry>TXT_KEY_Promotion_WAR_PT14</PediaEntry>
 			<CannotBeChosen>true</CannotBeChosen>
@@ -437,9 +453,10 @@
 			<Type>Promotion_WAR_PT14_1</Type>
 			<Description>TXT_KEY_Promotion_WAR_PT14_1</Description>
 			<Help>TXT_KEY_Promotion_WAR_PT14_1_HELP</Help>
-			<IconAtlas>PROMOTION_ATLAS</IconAtlas>
-			<PortraitIndex>37</PortraitIndex>
+			<IconAtlas>WPT_ICON</IconAtlas>
+			<PortraitIndex>31</PortraitIndex>
 			<PediaType>PEDIA_ATTRIBUTES</PediaType>
+			<OrderPriority>1</OrderPriority>
 			<PediaEntry>TXT_KEY_Promotion_WAR_PT14_1</PediaEntry>
 			<MilitaryMightMod>1</MilitaryMightMod>
 			<MaintenanceCost>12</MaintenanceCost>
@@ -451,21 +468,22 @@
 			<Type>Promotion_WAR_PT15</Type>
 			<Description>TXT_KEY_Promotion_WAR_PT15</Description>
 			<Help>TXT_KEY_Promotion_WAR_PT15_HELP</Help>
-			<IconAtlas>PROMOTION_ATLAS</IconAtlas>
-			<PortraitIndex>37</PortraitIndex>
+			<IconAtlas>WPT_ICON</IconAtlas>
+			<PortraitIndex>32</PortraitIndex>
 			<PediaType>PEDIA_ATTRIBUTES</PediaType>
 			<PediaEntry>TXT_KEY_Promotion_WAR_PT15</PediaEntry>
 			<CannotBeChosen>true</CannotBeChosen>
 			<FriendlyHealChange>10</FriendlyHealChange>
 			<EnemyHealChange>10</EnemyHealChange>
 			<NeutralHealChange>10</NeutralHealChange>
+			<MaxHitPointsModifier>10</MaxHitPointsModifier>
 		</Row>
 		<Row>
 			<Type>Promotion_WAR_PT16</Type>
 			<Description>TXT_KEY_Promotion_WAR_PT16</Description>
 			<Help>TXT_KEY_Promotion_WAR_PT16_HELP</Help>
-			<IconAtlas>PROMOTION_ATLAS</IconAtlas>
-			<PortraitIndex>37</PortraitIndex>
+			<IconAtlas>WPT_ICON</IconAtlas>
+			<PortraitIndex>33</PortraitIndex>
 			<PediaType>PEDIA_ATTRIBUTES</PediaType>
 			<PediaEntry>TXT_KEY_Promotion_WAR_PT16</PediaEntry>
 			<CannotBeChosen>true</CannotBeChosen>
@@ -476,8 +494,8 @@
 			<Type>Promotion_WAR_PT17</Type>
 			<Description>TXT_KEY_Promotion_WAR_PT17</Description>
 			<Help>TXT_KEY_Promotion_WAR_PT17_HELP</Help>
-			<IconAtlas>PROMOTION_ATLAS</IconAtlas>
-			<PortraitIndex>37</PortraitIndex>
+			<IconAtlas>WPT_ICON</IconAtlas>
+			<PortraitIndex>34</PortraitIndex>
 			<PediaType>PEDIA_ATTRIBUTES</PediaType>
 			<PediaEntry>TXT_KEY_Promotion_WAR_PT17</PediaEntry>
 			<CannotBeChosen>true</CannotBeChosen>
@@ -488,8 +506,9 @@
 			<Type>Promotion_WAR_PT17_1</Type>
 			<Description>TXT_KEY_Promotion_WAR_PT17_1</Description>
 			<Help>TXT_KEY_Promotion_WAR_PT17_1_HELP</Help>
-			<IconAtlas>PROMOTION_ATLAS</IconAtlas>
-			<PortraitIndex>37</PortraitIndex>
+			<IconAtlas>WPT_ICON</IconAtlas>
+			<PortraitIndex>35</PortraitIndex>
+			<OrderPriority>1</OrderPriority>
 			<PediaType>PEDIA_ATTRIBUTES</PediaType>
 			<PediaEntry>TXT_KEY_Promotion_WAR_PT17_1</PediaEntry>
 			<MilitaryMightMod>1</MilitaryMightMod>
@@ -503,8 +522,8 @@
 			<Type>Promotion_WAR_PT17_2</Type>
 			<Description>TXT_KEY_Promotion_WAR_PT17_2</Description>
 			<Help>TXT_KEY_Promotion_WAR_PT17_2_HELP</Help>
-			<IconAtlas>PROMOTION_ATLAS</IconAtlas>
-			<PortraitIndex>37</PortraitIndex>
+			<IconAtlas>WPT_ICON</IconAtlas>
+			<PortraitIndex>35</PortraitIndex>
 			<PediaType>PEDIA_ATTRIBUTES</PediaType>
 			<PediaEntry>TXT_KEY_Promotion_WAR_PT17_2</PediaEntry>
 			<MilitaryMightMod>1</MilitaryMightMod>
@@ -518,8 +537,8 @@
 			<Type>Promotion_WAR_PT18</Type>
 			<Description>TXT_KEY_Promotion_WAR_PT18</Description>
 			<Help>TXT_KEY_Promotion_WAR_PT18_HELP</Help>
-			<IconAtlas>PROMOTION_ATLAS</IconAtlas>
-			<PortraitIndex>37</PortraitIndex>
+			<IconAtlas>WPT_ICON</IconAtlas>
+			<PortraitIndex>36</PortraitIndex>
 			<PediaType>PEDIA_ATTRIBUTES</PediaType>
 			<PediaEntry>TXT_KEY_Promotion_WAR_PT18</PediaEntry>
 			<CannotBeChosen>true</CannotBeChosen>
@@ -530,8 +549,9 @@
 			<Type>Promotion_WAR_PT18_1</Type>
 			<Description>TXT_KEY_Promotion_WAR_PT18_1</Description>
 			<Help>TXT_KEY_Promotion_WAR_PT18_1_HELP</Help>
-			<IconAtlas>PROMOTION_ATLAS</IconAtlas>
+			<IconAtlas>WPT_ICON</IconAtlas>
 			<PortraitIndex>37</PortraitIndex>
+			<OrderPriority>1</OrderPriority>
 			<PediaType>PEDIA_ATTRIBUTES</PediaType>
 			<PediaEntry>TXT_KEY_Promotion_WAR_PT18_1</PediaEntry>
 			<MilitaryMightMod>1</MilitaryMightMod>
@@ -547,8 +567,8 @@
 			<Type>Promotion_WAR_PT19</Type>
 			<Description>TXT_KEY_Promotion_WAR_PT19</Description>
 			<Help>TXT_KEY_Promotion_WAR_PT19_HELP</Help>
-			<IconAtlas>PROMOTION_ATLAS</IconAtlas>
-			<PortraitIndex>37</PortraitIndex>
+			<IconAtlas>WPT_ICON</IconAtlas>
+			<PortraitIndex>38</PortraitIndex>
 			<PediaType>PEDIA_ATTRIBUTES</PediaType>
 			<PediaEntry>TXT_KEY_Promotion_WAR_PT19</PediaEntry>
 			<CannotBeChosen>true</CannotBeChosen>
@@ -559,8 +579,8 @@
 			<Type>Promotion_WAR_PT20</Type>
 			<Description>TXT_KEY_Promotion_WAR_PT20</Description>
 			<Help>TXT_KEY_Promotion_WAR_PT20_HELP</Help>
-			<IconAtlas>PROMOTION_ATLAS</IconAtlas>
-			<PortraitIndex>37</PortraitIndex>
+			<IconAtlas>WPT_ICON</IconAtlas>
+			<PortraitIndex>39</PortraitIndex>
 			<PediaType>PEDIA_ATTRIBUTES</PediaType>
 			<PediaEntry>TXT_KEY_Promotion_WAR_PT20</PediaEntry>
 			<CannotBeChosen>true</CannotBeChosen>
@@ -573,8 +593,8 @@
 			<Type>Promotion_WAR_PT21</Type>
 			<Description>TXT_KEY_Promotion_WAR_PT21</Description>
 			<Help>TXT_KEY_Promotion_WAR_PT21_HELP</Help>
-			<IconAtlas>PROMOTION_ATLAS</IconAtlas>
-			<PortraitIndex>37</PortraitIndex>
+			<IconAtlas>WPT_ICON</IconAtlas>
+			<PortraitIndex>40</PortraitIndex>
 			<PediaType>PEDIA_ATTRIBUTES</PediaType>
 			<PediaEntry>TXT_KEY_Promotion_WAR_PT21</PediaEntry>
 			<CannotBeChosen>true</CannotBeChosen>
@@ -587,8 +607,9 @@
 			<Type>Promotion_WAR_PT21_1</Type>
 			<Description>TXT_KEY_Promotion_WAR_PT21_1</Description>
 			<Help>TXT_KEY_Promotion_WAR_PT21_1_HELP</Help>
-			<IconAtlas>PROMOTION_ATLAS</IconAtlas>
-			<PortraitIndex>37</PortraitIndex>
+			<IconAtlas>WPT_ICON</IconAtlas>
+			<PortraitIndex>41</PortraitIndex>
+			<OrderPriority>1</OrderPriority>
 			<PediaType>PEDIA_ATTRIBUTES</PediaType>
 			<PediaEntry>TXT_KEY_Promotion_WAR_PT21_1</PediaEntry>
 			<MilitaryMightMod>1</MilitaryMightMod>
@@ -605,15 +626,15 @@
 			<Type>Promotion_WAR_PT22</Type>
 			<Description>TXT_KEY_Promotion_WAR_PT22</Description>
 			<Help>TXT_KEY_Promotion_WAR_PT22_HELP</Help>
-			<IconAtlas>PROMOTION_ATLAS</IconAtlas>
-			<PortraitIndex>37</PortraitIndex>
+			<IconAtlas>WPT_ICON</IconAtlas>
+			<PortraitIndex>42</PortraitIndex>
 			<PediaType>PEDIA_ATTRIBUTES</PediaType>
 			<PediaEntry>TXT_KEY_Promotion_WAR_PT22</PediaEntry>
 			<CannotBeChosen>true</CannotBeChosen>
 			<AirInterceptRangeChange>1</AirInterceptRangeChange>
 			<InterceptionCombatModifier>400</InterceptionCombatModifier>
 			<NumInterceptionChange>1</NumInterceptionChange>
-			<InterceptChanceChange>100</InterceptChanceChange>
+			<!-- <InterceptChanceChange>100</InterceptChanceChange> -->
 			<MaintenanceCost>9</MaintenanceCost>
 			<AuraPromotionType>Promotion_WAR_PT22_1</AuraPromotionType>
 			<AuraPromotionRange>2</AuraPromotionRange>
@@ -622,8 +643,8 @@
 			<Type>Promotion_WAR_PT22_1</Type>
 			<Description>TXT_KEY_Promotion_WAR_PT22_1</Description>
 			<Help>TXT_KEY_Promotion_WAR_PT22_1_HELP</Help>
-			<IconAtlas>PROMOTION_ATLAS</IconAtlas>
-			<PortraitIndex>37</PortraitIndex>
+			<IconAtlas>WPT_ICON</IconAtlas>
+			<PortraitIndex>43</PortraitIndex>
 			<PediaType>PEDIA_ATTRIBUTES</PediaType>
 			<PediaEntry>TXT_KEY_Promotion_WAR_PT22_1</PediaEntry>
 			<MilitaryMightMod>1</MilitaryMightMod>
@@ -633,8 +654,8 @@
 			<Type>Promotion_WAR_PT23</Type>
 			<Description>TXT_KEY_Promotion_WAR_PT23</Description>
 			<Help>TXT_KEY_Promotion_WAR_PT23_HELP</Help>
-			<IconAtlas>PROMOTION_ATLAS</IconAtlas>
-			<PortraitIndex>37</PortraitIndex>
+			<IconAtlas>WPT_ICON</IconAtlas>
+			<PortraitIndex>44</PortraitIndex>
 			<PediaType>PEDIA_ATTRIBUTES</PediaType>
 			<PediaEntry>TXT_KEY_Promotion_WAR_PT23</PediaEntry>
 			<CannotBeChosen>true</CannotBeChosen>                                             
@@ -650,8 +671,8 @@
 			<Type>Promotion_WAR_PT24</Type>
 			<Description>TXT_KEY_Promotion_WAR_PT24</Description>
 			<Help>TXT_KEY_Promotion_WAR_PT24_HELP</Help>
-			<IconAtlas>PROMOTION_ATLAS</IconAtlas>
-			<PortraitIndex>37</PortraitIndex>
+			<IconAtlas>WPT_ICON</IconAtlas>
+			<PortraitIndex>45</PortraitIndex>
 			<PediaType>PEDIA_ATTRIBUTES</PediaType>
 			<PediaEntry>TXT_KEY_Promotion_WAR_PT24</PediaEntry>
 			<CannotBeChosen>true</CannotBeChosen>
@@ -665,8 +686,8 @@
 			<Type>Promotion_WAR_PT24_1</Type>
 			<Description>TXT_KEY_Promotion_WAR_PT24_1</Description>
 			<Help>TXT_KEY_Promotion_WAR_PT24_1_HELP</Help>
-			<IconAtlas>PROMOTION_ATLAS</IconAtlas>
-			<PortraitIndex>37</PortraitIndex>
+			<IconAtlas>WPT_ICON</IconAtlas>
+			<PortraitIndex>46</PortraitIndex>
 			<PediaType>PEDIA_ATTRIBUTES</PediaType>
 			<PediaEntry>TXT_KEY_Promotion_WAR_PT24_1</PediaEntry>
 			<CannotBeChosen>true</CannotBeChosen>
@@ -678,8 +699,9 @@
 			<Type>Promotion_WAR_PT24_2</Type>
 			<Description>TXT_KEY_Promotion_WAR_PT24_2</Description>
 			<Help>TXT_KEY_Promotion_WAR_PT24_2_HELP</Help>
-			<IconAtlas>PROMOTION_ATLAS</IconAtlas>
-			<PortraitIndex>37</PortraitIndex>
+			<IconAtlas>WPT_ICON</IconAtlas>
+			<PortraitIndex>47</PortraitIndex>
+			<OrderPriority>1</OrderPriority>
 			<PediaType>PEDIA_ATTRIBUTES</PediaType>
 			<PediaEntry>TXT_KEY_Promotion_WAR_PT24_2</PediaEntry>
 			<MilitaryMightMod>1</MilitaryMightMod>
@@ -692,8 +714,8 @@
 			<Type>Promotion_WAR_PT24_3</Type>
 			<Description>TXT_KEY_Promotion_WAR_PT24_3</Description>
 			<Help>TXT_KEY_Promotion_WAR_PT24_3_HELP</Help>
-			<IconAtlas>PROMOTION_ATLAS</IconAtlas>
-			<PortraitIndex>37</PortraitIndex>
+			<IconAtlas>WPT_ICON</IconAtlas>
+			<PortraitIndex>47</PortraitIndex>
 			<PediaType>PEDIA_ATTRIBUTES</PediaType>
 			<PediaEntry>TXT_KEY_Promotion_WAR_PT24_3</PediaEntry>
 			<MilitaryMightMod>1</MilitaryMightMod>
@@ -707,8 +729,8 @@
 			<Type>Promotion_WAR_PT25</Type>
 			<Description>TXT_KEY_Promotion_WAR_PT25</Description>
 			<Help>TXT_KEY_Promotion_WAR_PT25_HELP</Help>
-			<IconAtlas>PROMOTION_ATLAS</IconAtlas>
-			<PortraitIndex>37</PortraitIndex>
+			<IconAtlas>WPT_ICON</IconAtlas>
+			<PortraitIndex>48</PortraitIndex>
 			<PediaType>PEDIA_ATTRIBUTES</PediaType>
 			<PediaEntry>TXT_KEY_Promotion_WAR_PT25</PediaEntry>
 			<CannotBeChosen>true</CannotBeChosen>
@@ -719,8 +741,8 @@
 			<Type>Promotion_WAR_PT25_1</Type>
 			<Description>TXT_KEY_Promotion_WAR_PT25_1</Description>
 			<Help>TXT_KEY_Promotion_WAR_PT25_1_HELP</Help>
-			<IconAtlas>PROMOTION_ATLAS</IconAtlas>
-			<PortraitIndex>37</PortraitIndex>
+			<IconAtlas>WPT_ICON</IconAtlas>
+			<PortraitIndex>49</PortraitIndex>
 			<PediaType>PEDIA_ATTRIBUTES</PediaType>
 			<PediaEntry>TXT_KEY_Promotion_WAR_PT25_1</PediaEntry>
 			<CannotBeChosen>true</CannotBeChosen>
@@ -730,8 +752,8 @@
 			<Type>Promotion_WAR_PT26</Type>
 			<Description>TXT_KEY_Promotion_WAR_PT26</Description>
 			<Help>TXT_KEY_Promotion_WAR_PT26_HELP</Help>
-			<IconAtlas>PROMOTION_ATLAS</IconAtlas>
-			<PortraitIndex>37</PortraitIndex>
+			<IconAtlas>WPT_ICON</IconAtlas>
+			<PortraitIndex>50</PortraitIndex>
 			<PediaType>PEDIA_ATTRIBUTES</PediaType>
 			<PediaEntry>TXT_KEY_Promotion_WAR_PT26</PediaEntry>
 			<CannotBeChosen>true</CannotBeChosen>
@@ -744,8 +766,8 @@
 			<Type>Promotion_WAR_PT26_1</Type>
 			<Description>TXT_KEY_Promotion_WAR_PT26_1</Description>
 			<Help>TXT_KEY_Promotion_WAR_PT26_1_HELP</Help>
-			<IconAtlas>PROMOTION_ATLAS</IconAtlas>
-			<PortraitIndex>37</PortraitIndex>
+			<IconAtlas>WPT_ICON</IconAtlas>
+			<PortraitIndex>52</PortraitIndex>
 			<PediaType>PEDIA_ATTRIBUTES</PediaType>
 			<PediaEntry>TXT_KEY_Promotion_WAR_PT26_1</PediaEntry>
 			<MilitaryMightMod>1</MilitaryMightMod>
@@ -760,8 +782,8 @@
 			<Type>Promotion_WAR_PT26_2</Type>
 			<Description>TXT_KEY_Promotion_WAR_PT26_2</Description>
 			<Help>TXT_KEY_Promotion_WAR_PT26_2_HELP</Help>
-			<IconAtlas>PROMOTION_ATLAS</IconAtlas>
-			<PortraitIndex>37</PortraitIndex>
+			<IconAtlas>WPT_ICON</IconAtlas>
+			<PortraitIndex>51</PortraitIndex>
 			<PediaType>PEDIA_ATTRIBUTES</PediaType>
 			<PediaEntry>TXT_KEY_Promotion_WAR_PT26_2</PediaEntry>
 			<MilitaryMightMod>1</MilitaryMightMod>
@@ -773,8 +795,8 @@
 			<Type>Promotion_WAR_PT27</Type>
 			<Description>TXT_KEY_Promotion_WAR_PT27</Description>
 			<Help>TXT_KEY_Promotion_WAR_PT27_HELP</Help>
-			<IconAtlas>PROMOTION_ATLAS</IconAtlas>
-			<PortraitIndex>37</PortraitIndex>
+			<IconAtlas>WPT_ICON</IconAtlas>
+			<PortraitIndex>53</PortraitIndex>
 			<PediaType>PEDIA_ATTRIBUTES</PediaType>
 			<PediaEntry>TXT_KEY_Promotion_WAR_PT27</PediaEntry>
 			<MilitaryMightMod>1</MilitaryMightMod>
@@ -784,6 +806,400 @@
 			<CanMoveAfterAttacking>true</CanMoveAfterAttacking>
 			<DropRange>30</DropRange>
 			<CanParadropAnyWhere>true</CanParadropAnyWhere>
+		</Row>
+		<Row>
+			<Type>Promotion_WAR_PT28</Type>
+			<Description>TXT_KEY_Promotion_WAR_PT28</Description>
+			<Help>TXT_KEY_Promotion_WAR_PT28_HELP</Help>
+			<IconAtlas>WPT_ICON</IconAtlas>
+			<PortraitIndex>54</PortraitIndex>
+			<PediaType>PEDIA_ATTRIBUTES</PediaType>
+			<PediaEntry>TXT_KEY_Promotion_WAR_PT28</PediaEntry>
+			<CannotBeChosen>true</CannotBeChosen>
+			<RangedAttackModifier>20</RangedAttackModifier>
+		</Row>
+		<Row>
+			<Type>Promotion_WAR_PT28_1</Type>
+			<Description>TXT_KEY_Promotion_WAR_PT28_1</Description>
+			<Help>TXT_KEY_Promotion_WAR_PT28_1_HELP</Help>
+			<IconAtlas>WPT_ICON</IconAtlas>
+			<PortraitIndex>55</PortraitIndex>
+			<OrderPriority>1</OrderPriority>
+			<PediaType>PEDIA_ATTRIBUTES</PediaType>
+			<PediaEntry>TXT_KEY_Promotion_WAR_PT28_1</PediaEntry>
+			<MilitaryMightMod>1</MilitaryMightMod>
+			<MaintenanceCost>3</MaintenanceCost>
+			<CityAttack>50</CityAttack>
+			<AttackInflictDamageChange>3</AttackInflictDamageChange>
+			<PromotionPrereq>Promotion_WAR_PT28</PromotionPrereq>
+		</Row>
+		<Row>
+			<Type>Promotion_WAR_PT29</Type>
+			<Description>TXT_KEY_Promotion_WAR_PT29</Description>
+			<Help>TXT_KEY_Promotion_WAR_PT29_HELP</Help>
+			<Sound>AS2D_IF_LEVELUP</Sound>
+			<PortraitIndex>56</PortraitIndex>
+			<IconAtlas>WPT_ICON</IconAtlas>
+			<PediaType>PEDIA_ATTRIBUTES</PediaType>
+			<PediaEntry>TXT_KEY_Promotion_WAR_PT29</PediaEntry>
+			<CannotBeChosen>true</CannotBeChosen>
+			<ChangeDamageValue>-3</ChangeDamageValue>
+			<RangedDefenseMod>100</RangedDefenseMod>
+			<LostAllMovesAttackCity>-1</LostAllMovesAttackCity>
+		</Row>
+		<Row>
+			<Type>Promotion_WAR_PT29_N</Type>
+			<Description>TXT_KEY_Promotion_WAR_PT29_N</Description>
+			<Help>TXT_KEY_Promotion_WAR_PT29_N_HELP</Help>
+			<Sound>AS2D_IF_LEVELUP</Sound>
+			<PortraitIndex>57</PortraitIndex>
+			<OrderPriority>1</OrderPriority>
+			<IconAtlas>WPT_ICON</IconAtlas>
+			<PediaType>PEDIA_ATTRIBUTES</PediaType>
+			<PediaEntry>TXT_KEY_Promotion_WAR_PT29_N</PediaEntry>
+			<PromotionPrereq>Promotion_WAR_PT29</PromotionPrereq>
+			<AuraPromotionRange>1</AuraPromotionRange>
+			<MaintenanceCost>9</MaintenanceCost>
+		</Row>
+		<Row>
+			<Type>Promotion_WAR_PT29_1</Type>
+			<Description>TXT_KEY_Promotion_WAR_PT29_1</Description>
+			<Help>TXT_KEY_Promotion_WAR_PT29_1_HELP</Help>
+			<IconAtlas>WPT_ICON</IconAtlas>
+			<PortraitIndex>57</PortraitIndex>
+			<PediaType>PEDIA_ATTRIBUTES</PediaType>
+			<PediaEntry>TXT_KEY_Promotion_WAR_PT29_1</PediaEntry>
+			<MilitaryMightMod>1</MilitaryMightMod>
+			<CityAttack>50</CityAttack>
+			<CannotBeChosen>true</CannotBeChosen>
+			<ShowInUnitPanel>0</ShowInUnitPanel>
+			<ShowInTooltip>0</ShowInTooltip>
+			<ShowInPedia>0</ShowInPedia>
+		</Row>
+		<Row>
+			<Type>Promotion_WAR_PT29_2</Type>
+			<Description>TXT_KEY_Promotion_WAR_PT29_2</Description>
+			<Help>TXT_KEY_Promotion_WAR_PT29_2_HELP</Help>
+			<IconAtlas>WPT_ICON</IconAtlas>
+			<PortraitIndex>57</PortraitIndex>
+			<PediaType>PEDIA_ATTRIBUTES</PediaType>
+			<PediaEntry>TXT_KEY_Promotion_WAR_PT29_2</PediaEntry>
+			<MilitaryMightMod>1</MilitaryMightMod>
+			<CityAttack>50</CityAttack>
+			<CannotBeChosen>true</CannotBeChosen>
+			<ShowInUnitPanel>0</ShowInUnitPanel>
+			<ShowInTooltip>0</ShowInTooltip>
+			<ShowInPedia>0</ShowInPedia>
+		</Row>
+		<Row>
+			<Type>Promotion_WAR_PT29_3</Type>
+			<Description>TXT_KEY_Promotion_WAR_PT29_3</Description>
+			<Help>TXT_KEY_Promotion_WAR_PT29_3_HELP</Help>
+			<IconAtlas>WPT_ICON</IconAtlas>
+			<PortraitIndex>57</PortraitIndex>
+			<PediaType>PEDIA_ATTRIBUTES</PediaType>
+			<PediaEntry>TXT_KEY_Promotion_WAR_PT29_3</PediaEntry>
+			<MilitaryMightMod>1</MilitaryMightMod>
+			<CityAttack>50</CityAttack>
+			<CannotBeChosen>true</CannotBeChosen>
+			<ShowInUnitPanel>0</ShowInUnitPanel>
+			<ShowInTooltip>0</ShowInTooltip>
+			<ShowInPedia>0</ShowInPedia>
+		</Row>
+		<Row>
+			<Type>Promotion_WAR_PT29_4</Type>
+			<Description>TXT_KEY_Promotion_WAR_PT29_4</Description>
+			<Help>TXT_KEY_Promotion_WAR_PT29_4_HELP</Help>
+			<IconAtlas>WPT_ICON</IconAtlas>
+			<PortraitIndex>57</PortraitIndex>
+			<PediaType>PEDIA_ATTRIBUTES</PediaType>
+			<PediaEntry>TXT_KEY_Promotion_WAR_PT29_4</PediaEntry>
+			<MilitaryMightMod>1</MilitaryMightMod>
+			<CityAttack>50</CityAttack>
+			<CannotBeChosen>true</CannotBeChosen>
+			<ShowInUnitPanel>0</ShowInUnitPanel>
+			<ShowInTooltip>0</ShowInTooltip>
+			<ShowInPedia>0</ShowInPedia>
+		</Row>
+		<Row>
+			<Type>Promotion_WAR_PT29_5</Type>
+			<Description>TXT_KEY_Promotion_WAR_PT29_5</Description>
+			<Help>TXT_KEY_Promotion_WAR_PT29_5_HELP</Help>
+			<IconAtlas>WPT_ICON</IconAtlas>
+			<PortraitIndex>57</PortraitIndex>
+			<PediaType>PEDIA_ATTRIBUTES</PediaType>
+			<PediaEntry>TXT_KEY_Promotion_WAR_PT29_5</PediaEntry>
+			<MilitaryMightMod>1</MilitaryMightMod>
+			<CityAttack>50</CityAttack>
+			<CannotBeChosen>true</CannotBeChosen>
+			<ShowInUnitPanel>0</ShowInUnitPanel>
+			<ShowInTooltip>0</ShowInTooltip>
+			<ShowInPedia>0</ShowInPedia>
+		</Row>
+		<Row>
+			<Type>Promotion_WAR_PT29_6</Type>
+			<Description>TXT_KEY_Promotion_WAR_PT29_6</Description>
+			<Help>TXT_KEY_Promotion_WAR_PT29_6_HELP</Help>
+			<IconAtlas>WPT_ICON</IconAtlas>
+			<PortraitIndex>57</PortraitIndex>
+			<PediaType>PEDIA_ATTRIBUTES</PediaType>
+			<PediaEntry>TXT_KEY_Promotion_WAR_PT29_6</PediaEntry>
+			<MilitaryMightMod>1</MilitaryMightMod>
+			<CityAttack>50</CityAttack>
+			<CannotBeChosen>true</CannotBeChosen>
+			<ShowInUnitPanel>0</ShowInUnitPanel>
+			<ShowInTooltip>0</ShowInTooltip>
+			<ShowInPedia>0</ShowInPedia>
+		</Row>
+		<Row>
+			<Type>Promotion_WAR_PT29_7</Type>
+			<Description>TXT_KEY_Promotion_WAR_PT29_7</Description>
+			<Help>TXT_KEY_Promotion_WAR_PT29_7_HELP</Help>
+			<IconAtlas>WPT_ICON</IconAtlas>
+			<PortraitIndex>57</PortraitIndex>
+			<PediaType>PEDIA_ATTRIBUTES</PediaType>
+			<PediaEntry>TXT_KEY_Promotion_WAR_PT29_7</PediaEntry>
+			<MilitaryMightMod>1</MilitaryMightMod>
+			<CityAttack>50</CityAttack>
+			<CannotBeChosen>true</CannotBeChosen>
+			<ShowInUnitPanel>0</ShowInUnitPanel>
+			<ShowInTooltip>0</ShowInTooltip>
+			<ShowInPedia>0</ShowInPedia>
+		</Row>
+		<Row>
+			<Type>Promotion_WAR_PT29_8</Type>
+			<Description>TXT_KEY_Promotion_WAR_PT29_8</Description>
+			<Help>TXT_KEY_Promotion_WAR_PT29_8_HELP</Help>
+			<IconAtlas>WPT_ICON</IconAtlas>
+			<PortraitIndex>57</PortraitIndex>
+			<PediaType>PEDIA_ATTRIBUTES</PediaType>
+			<PediaEntry>TXT_KEY_Promotion_WAR_PT29_8</PediaEntry>
+			<MilitaryMightMod>1</MilitaryMightMod>
+			<CityAttack>50</CityAttack>
+			<CannotBeChosen>true</CannotBeChosen>
+			<ShowInUnitPanel>0</ShowInUnitPanel>
+			<ShowInTooltip>0</ShowInTooltip>
+			<ShowInPedia>0</ShowInPedia>
+		</Row>
+		<Row>
+			<Type>Promotion_WAR_PT29_9</Type>
+			<Description>TXT_KEY_Promotion_WAR_PT29_9</Description>
+			<Help>TXT_KEY_Promotion_WAR_PT29_9_HELP</Help>
+			<IconAtlas>WPT_ICON</IconAtlas>
+			<PortraitIndex>57</PortraitIndex>
+			<PediaType>PEDIA_ATTRIBUTES</PediaType>
+			<PediaEntry>TXT_KEY_Promotion_WAR_PT29_9</PediaEntry>
+			<MilitaryMightMod>1</MilitaryMightMod>
+			<CityAttack>50</CityAttack>
+			<CannotBeChosen>true</CannotBeChosen>
+			<ShowInUnitPanel>0</ShowInUnitPanel>
+			<ShowInTooltip>0</ShowInTooltip>
+			<ShowInPedia>0</ShowInPedia>
+		</Row>
+		<Row>
+			<Type>Promotion_WAR_PT29_10</Type>
+			<Description>TXT_KEY_Promotion_WAR_PT29_10</Description>
+			<Help>TXT_KEY_Promotion_WAR_PT29_10_HELP</Help>
+			<IconAtlas>WPT_ICON</IconAtlas>
+			<PortraitIndex>57</PortraitIndex>
+			<PediaType>PEDIA_ATTRIBUTES</PediaType>
+			<PediaEntry>TXT_KEY_Promotion_WAR_PT29_10</PediaEntry>
+			<MilitaryMightMod>1</MilitaryMightMod>
+			<CityAttack>50</CityAttack>
+			<CannotBeChosen>true</CannotBeChosen>
+			<ShowInUnitPanel>0</ShowInUnitPanel>
+			<ShowInTooltip>0</ShowInTooltip>
+			<ShowInPedia>0</ShowInPedia>
+		</Row>
+		<Row>
+			<Type>Promotion_WAR_PT30</Type>
+			<Description>TXT_KEY_Promotion_WAR_PT30</Description>
+			<Help>TXT_KEY_Promotion_WAR_PT30_HELP</Help>
+			<IconAtlas>WPT_ICON</IconAtlas>
+			<PortraitIndex>58</PortraitIndex>
+			<PediaType>PEDIA_ATTRIBUTES</PediaType>
+			<PediaEntry>TXT_KEY_Promotion_WAR_PT30</PediaEntry>
+			<CannotBeChosen>true</CannotBeChosen>
+			<MaxHitPointsModifier>-15</MaxHitPointsModifier>
+			<Invisible>INVISIBLE_SUBMARINE</Invisible>
+			<SeeInvisible>INVISIBLE_SUBMARINE</SeeInvisible>
+		</Row>
+		<Row>
+			<Type>Promotion_WAR_PT31</Type>
+			<Description>TXT_KEY_Promotion_WAR_PT31</Description>
+			<Help>TXT_KEY_Promotion_WAR_PT31_HELP</Help>
+			<IconAtlas>WPT_ICON</IconAtlas>
+			<PortraitIndex>57</PortraitIndex>
+			<PediaType>PEDIA_ATTRIBUTES</PediaType>
+			<PediaEntry>TXT_KEY_Promotion_WAR_PT31</PediaEntry>
+			<CannotBeChosen>true</CannotBeChosen>
+			<MaxHitPointsModifier>10</MaxHitPointsModifier>
+			<ExperiencePercent>30</ExperiencePercent>
+			<MaintenanceCost>1</MaintenanceCost>
+			<ShowInUnitPanel>0</ShowInUnitPanel>
+			<ShowInTooltip>0</ShowInTooltip>
+			<ShowInPedia>0</ShowInPedia>
+		</Row>
+		<Row>
+			<Type>Promotion_WAR_PT32</Type>
+			<Description>TXT_KEY_Promotion_WAR_PT32</Description>
+			<Help>TXT_KEY_Promotion_WAR_PT32_HELP</Help>
+			<IconAtlas>WPT_ICON</IconAtlas>
+			<PortraitIndex>57</PortraitIndex>
+			<PediaType>PEDIA_ATTRIBUTES</PediaType>
+			<PediaEntry>TXT_KEY_Promotion_WAR_PT32</PediaEntry>
+			<CannotBeChosen>true</CannotBeChosen>
+			<ShowInUnitPanel>0</ShowInUnitPanel>
+			<ShowInTooltip>0</ShowInTooltip>
+			<ShowInPedia>0</ShowInPedia>
+			<EnemyRoute>true</EnemyRoute>
+		</Row>
+		<Row>
+			<Type>Promotion_WAR_PT33</Type>
+			<Description>TXT_KEY_Promotion_WAR_PT33</Description>
+			<Help>TXT_KEY_Promotion_WAR_PT33_HELP</Help>
+			<IconAtlas>WPT_ICON</IconAtlas>
+			<PortraitIndex>60</PortraitIndex>
+			<PediaType>PEDIA_ATTRIBUTES</PediaType>
+			<PediaEntry>TXT_KEY_Promotion_WAR_PT33</PediaEntry>
+			<AuraPromotionType>Promotion_WAR_PT33_1</AuraPromotionType>
+			<AuraPromotionRange>1</AuraPromotionRange>
+			<CannotBeChosen>true</CannotBeChosen>
+			<IgnoreTerrainCost>true</IgnoreTerrainCost>
+		</Row>
+		<Row>
+			<Type>Promotion_WAR_PT33_1</Type>
+			<Description>TXT_KEY_Promotion_WAR_PT33_1</Description>
+			<Help>TXT_KEY_Promotion_WAR_PT33_1_HELP</Help>
+			<IconAtlas>WPT_ICON</IconAtlas>
+			<PortraitIndex>59</PortraitIndex>
+			<PediaType>PEDIA_ATTRIBUTES</PediaType>
+			<PediaEntry>TXT_KEY_Promotion_WAR_PT33_1</PediaEntry>
+			<CannotBeChosen>true</CannotBeChosen>
+			<AttackInflictDamageChange>3</AttackInflictDamageChange>
+			<RangedAttackModifier>50</RangedAttackModifier>
+		</Row>
+		<Row>
+			<Type>Promotion_WAR_PT34</Type>
+			<Description>TXT_KEY_Promotion_WAR_PT34</Description>
+			<Help>TXT_KEY_Promotion_WAR_PT34_HELP</Help>
+			<IconAtlas>WPT_ICON</IconAtlas>
+			<PortraitIndex>61</PortraitIndex>
+			<PediaType>PEDIA_ATTRIBUTES</PediaType>
+			<PediaEntry>TXT_KEY_Promotion_WAR_PT34</PediaEntry>
+			<AuraPromotionType>Promotion_WAR_PT34_1</AuraPromotionType>
+			<AuraPromotionRange>2</AuraPromotionRange>
+			<CannotBeChosen>true</CannotBeChosen>
+			<MovesChange>2</MovesChange>
+		</Row>
+		<Row>
+			<Type>Promotion_WAR_PT34_1</Type>
+			<Description>TXT_KEY_Promotion_WAR_PT34_1</Description>
+			<Help>TXT_KEY_Promotion_WAR_PT34_1_HELP</Help>
+			<IconAtlas>WPT_ICON</IconAtlas>
+			<PortraitIndex>62</PortraitIndex>
+			<PediaType>PEDIA_ATTRIBUTES</PediaType>
+			<PediaEntry>TXT_KEY_Promotion_WAR_PT34_1</PediaEntry>
+			<CannotBeChosen>true</CannotBeChosen>
+			<DefenseMod>50</DefenseMod>
+			<!-- <ShowInUnitPanel>0</ShowInUnitPanel>
+			<ShowInTooltip>0</ShowInTooltip>
+			<ShowInPedia>0</ShowInPedia> -->
+		</Row>
+		<Row>
+			<Type>Promotion_WAR_PT35</Type>
+			<Description>TXT_KEY_Promotion_WAR_PT35</Description>
+			<Help>TXT_KEY_Promotion_WAR_PT35_HELP</Help>
+			<IconAtlas>WPT_ICON</IconAtlas>
+			<PortraitIndex>63</PortraitIndex>
+			<PediaType>PEDIA_ATTRIBUTES</PediaType>
+			<PediaEntry>TXT_KEY_Promotion_WAR_PT35</PediaEntry>
+			<CannotBeChosen>true</CannotBeChosen>
+			<!-- <ShowInUnitPanel>0</ShowInUnitPanel>
+			<ShowInTooltip>0</ShowInTooltip>
+			<ShowInPedia>0</ShowInPedia> -->
+			<VisibilityChange>2</VisibilityChange>
+		</Row>
+		<Row>
+			<Type>Promotion_WAR_PT36</Type>
+			<Description>TXT_KEY_Promotion_WAR_PT36</Description>
+			<Help>TXT_KEY_Promotion_WAR_PT36_HELP</Help>
+			<IconAtlas>WPT_ICON_2</IconAtlas>
+			<PortraitIndex>0</PortraitIndex>
+			<PediaType>PEDIA_ATTRIBUTES</PediaType>
+			<PediaEntry>TXT_KEY_Promotion_WAR_PT36</PediaEntry>
+			<CannotBeChosen>true</CannotBeChosen>
+			<!-- <ShowInUnitPanel>0</ShowInUnitPanel>
+			<ShowInTooltip>0</ShowInTooltip>
+			<ShowInPedia>0</ShowInPedia> -->
+			<FriendlyHealChange>15</FriendlyHealChange>
+			<EnemyHealChange>15</EnemyHealChange>
+			<NeutralHealChange>15</NeutralHealChange>
+		</Row>
+		<Row>
+			<Type>Promotion_WAR_PT36_1</Type>
+			<Description>TXT_KEY_Promotion_WAR_PT36_1</Description>
+			<Help>TXT_KEY_Promotion_WAR_PT36_1_HELP</Help>
+			<IconAtlas>WPT_ICON_2</IconAtlas>
+			<PortraitIndex>0</PortraitIndex>
+			<OrderPriority>1</OrderPriority>
+			<PediaType>PEDIA_ATTRIBUTES</PediaType>
+			<PediaEntry>TXT_KEY_Promotion_WAR_PT36_1</PediaEntry>
+			<MilitaryMightMod>1</MilitaryMightMod>
+			<MaintenanceCost>7</MaintenanceCost>
+			<PromotionPrereq>Promotion_WAR_PT36</PromotionPrereq>
+			<AttackInflictDamageChange>5</AttackInflictDamageChange>
+			<AttackWoundedMod>100</AttackWoundedMod>
+		</Row>
+		<Row>
+			<Type>Promotion_WAR_PT37</Type>
+			<Description>TXT_KEY_Promotion_WAR_PT37</Description>
+			<Help>TXT_KEY_Promotion_WAR_PT37_HELP</Help>
+			<IconAtlas>WPT_ICON_2</IconAtlas>
+			<PortraitIndex>1</PortraitIndex>
+			<PediaType>PEDIA_ATTRIBUTES</PediaType>
+			<PediaEntry>TXT_KEY_Promotion_WAR_PT37</PediaEntry>
+			<CannotBeChosen>true</CannotBeChosen>
+			<RangeChange>2</RangeChange>
+			<RangedAttackModifier>25</RangedAttackModifier>
+		</Row>
+		<Row>
+			<Type>Promotion_WAR_PT37_1</Type>
+			<Description>TXT_KEY_Promotion_WAR_PT37_1</Description>
+			<Help>TXT_KEY_Promotion_WAR_PT37_1_HELP</Help>
+			<IconAtlas>WPT_ICON_2</IconAtlas>
+			<PortraitIndex>2</PortraitIndex>
+			<OrderPriority>1</OrderPriority>
+			<PediaType>PEDIA_ATTRIBUTES</PediaType>
+			<PediaEntry>TXT_KEY_Promotion_WAR_PT37_1</PediaEntry>
+			<MilitaryMightMod>1</MilitaryMightMod>
+			<AirInterceptRangeChange>2</AirInterceptRangeChange>
+			<InterceptionCombatModifier>200</InterceptionCombatModifier>
+			<NumInterceptionChange>1</NumInterceptionChange>
+			<!-- <InterceptChanceChange>100</InterceptChanceChange> -->
+			<MaintenanceCost>8</MaintenanceCost>
+			<InterceptionDamageMod>-80</InterceptionDamageMod>
+			<PromotionPrereq>Promotion_WAR_PT37</PromotionPrereq>
+		</Row>
+		<Row>
+			<Type>Promotion_WAR_PT38</Type>
+			<Description>TXT_KEY_Promotion_WAR_PT38</Description>
+			<Help>TXT_KEY_Promotion_WAR_PT38_HELP</Help>
+			<IconAtlas>WPT_ICON_2</IconAtlas>
+			<PortraitIndex>3</PortraitIndex>
+			<PediaType>PEDIA_ATTRIBUTES</PediaType>
+			<PediaEntry>TXT_KEY_Promotion_WAR_PT38</PediaEntry>
+			<MilitaryMightMod>1</MilitaryMightMod>
+			<InterceptionCombatModifier>300</InterceptionCombatModifier>
+			<AirSweepCombatModifier>300</AirSweepCombatModifier>
+			<NumInterceptionChange>3</NumInterceptionChange>
+			<ExtraAttacks>3</ExtraAttacks>
+			<MovesChange>3</MovesChange>
+			<!-- <InterceptChanceChange>100</InterceptChanceChange> -->
+			<MaintenanceCost>10</MaintenanceCost>
+			<InterceptionDamageMod>-90</InterceptionDamageMod>
+			<AirSweepDamageMod>-90</AirSweepDamageMod>
+			<AttackMod>200</AttackMod>
 		</Row>
 	</UnitPromotions>
 	<UnitPromotions_UnitCombatMods>
@@ -815,6 +1231,20 @@
 			<DoubleMove>true</DoubleMove>
 		</Row>
 	</UnitPromotions_Features>
+	<UnitPromotions_Terrains>
+		<Row>
+			<PromotionType>Promotion_WAR_PT28</PromotionType>
+			<TerrainType>TERRAIN_PLAINS</TerrainType>
+			<Defense>30</Defense>
+			<Attack>30</Attack>
+		</Row>
+		<Row>
+			<PromotionType>Promotion_WAR_PT28</PromotionType>
+			<TerrainType>TERRAIN_GRASS</TerrainType>
+			<Defense>30</Defense>
+			<Attack>30</Attack>
+		</Row>
+	</UnitPromotions_Terrains>
 	<UnitPromotions_Domains>
 		<Row>
 			<PromotionType>Promotion_WAR_PT12</PromotionType>
@@ -832,4 +1262,20 @@
 			<Modifier>100</Modifier>
 		</Row>
 	</UnitPromotions_Domains>
+	<Promotion_AuraPromotionPrePromotionOr>
+		<Row>
+			<PromotionType>Promotion_WAR_PT29_N</PromotionType>
+			<PrePromotionType>Promotion_WAR_PT29_N</PrePromotionType>
+		</Row>
+	</Promotion_AuraPromotionPrePromotionOr>
+	<IconFontTextures>
+		<Row>
+			<IconFontTexture>ICON_FONT_TEXTURE_WPT</IconFontTexture>
+			<IconFontTextureFile>WPT_ICON_FONT</IconFontTextureFile>
+		</Row>
+		<Row>
+			<IconFontTexture>ICON_FONT_TEXTURE_WPT_2</IconFontTexture>
+			<IconFontTextureFile>WPT_ICON_2_FONT</IconFontTextureFile>
+		</Row>
+	</IconFontTextures>
 </GameData>
